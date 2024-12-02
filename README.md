@@ -8,9 +8,7 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **Senac
 
 ## 🛠️ Minhas Habilidades
 🔹 **Linguagens:** &nbsp;&nbsp;&nbsp;&nbsp;`Python` | `JavaScript`| `PHP`  
-
 🔹 **Frameworks:** &nbsp;&nbsp;&nbsp;&nbsp;`Django`  
-
 🔹 **Ferramentas:** &nbsp;&nbsp;&nbsp;&nbsp;`Git` | `VS Code`  
 
 ---
@@ -24,9 +22,30 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **Senac
 ---
 
 ## Atualmente aprendendo
-💻 **Desenvolvimento Backend:** Explorando as funcionalidades avançadas do **Django** para criar aplicações robustas e escaláveis.  
-🛡️ **Boas Práticas no Desenvolvimento Web:** Escrevendo código limpo, seguro e eficiente para projetos reais.  
-🤝 **Colaboração e Git:** Participando de projetos colaborativos e aprimorando habilidades de versionamento com **GitHub**.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/><br>
+        <strong>Desenvolvimento Backend</strong><br>
+        Explorando o Django para criar aplicações<br>
+        robustas e escaláveis.
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/48/000000/checklist.png" alt="Boas Práticas"/><br>
+        <strong>Boas Práticas no Web Dev</strong><br>
+        Escrevendo código limpo, seguro e eficiente<br>
+        para projetos reais.
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/><br>
+        <strong>Colaboração e Git</strong><br>
+        Trabalhando em projetos colaborativos<br>
+        com uso avançado do Git e GitHub.
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
