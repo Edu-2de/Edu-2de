@@ -1,6 +1,6 @@
 # Olá! Seja bem-vindo ao meu perfil!
 
-## 🌟 Sobre mim
+## Sobre mim
 Sou **Eduardo Paim**, um desenvolvedor iniciante de 18 anos, apaixonado por explorar o universo da programação e criar soluções com tecnologia.  
 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **Senac RS** e me dedicando a projetos utilizando **Django**.
 
