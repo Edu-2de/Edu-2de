@@ -7,12 +7,12 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **Senac
 ---
 
 ## 🛠️ Minhas Habilidades
-🔹 **Linguagens:**  
-&nbsp;&nbsp;&nbsp;&nbsp;`Python` | `JavaScript` | `HTML` | `CSS` | `PHP`  
-🔹 **Frameworks:**  
-&nbsp;&nbsp;&nbsp;&nbsp;`Django`  
-🔹 **Ferramentas:**  
-&nbsp;&nbsp;&nbsp;&nbsp;`Git` | `VS Code`  
+🔹 **Linguagens:** &nbsp;&nbsp;&nbsp;&nbsp;`Python` | `JavaScript`| `PHP`  
+
+🔹 **Frameworks:** &nbsp;&nbsp;&nbsp;&nbsp;`Django`  
+
+🔹 **Ferramentas:** &nbsp;&nbsp;&nbsp;&nbsp;`Git` | `VS Code`  
+
 
 ---
 
