@@ -11,7 +11,6 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **Senac
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 
 <section style="font-family: Arial, sans-serif; line-height: 1.6; background-color: #f9f9f9; padding: 20px; border-radius: 10px; border: 1px solid #ddd;">
-  <h2 style="text-align: center; color: #4CAF50; font-size: 24px; margin-bottom: 20px;">🛠️ Minhas Habilidades</h2>
   <ul style="list-style: none; padding: 0;">
     <li style="margin-bottom: 10px;">
       <strong><i class="fas fa-code"></i> Linguagens:</strong>
