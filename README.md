@@ -1,8 +1,17 @@
 # Olá! Seja bem-vindo ao meu perfil!
 
+<div align="center" style="background: linear-gradient(135deg, #f3f4f6, #ffffff); padding: 20px; border-radius: 10px; border: 1px solid #ddd; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
 ## Sobre mim
-Sou **Eduardo Paim**, um desenvolvedor iniciante de 18 anos, apaixonado por explorar o universo da programação e criar soluções com tecnologia.  
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **Senac RS** e me dedicando a projetos utilizando **Django**.
+
+<p>
+  Sou <strong>Eduardo Paim</strong>, um desenvolvedor iniciante de <strong>18 anos</strong>, apaixonado por explorar o universo da programação e criar soluções com tecnologia.  
+  Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> no <strong>Senac RS</strong> e me dedicando a projetos utilizando <strong>Django</strong>.
+</p>
+
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="150px" alt="Programming Icon" style="margin-top: 20px; border-radius: 10px;">
+
+</div>
+
 
 ---
 
