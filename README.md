@@ -13,6 +13,13 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **Senac
 
 🔹 **Ferramentas:** &nbsp;&nbsp;&nbsp;&nbsp;`Git` | `VS Code`  
 
+---
+
+## 📊 Estatísticas
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edu-2de&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-2de&layout=compact&theme=github_dark" alt="Linguagens mais usadas" />
+</div>
 
 ---
 
@@ -27,14 +34,6 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **Senac
 - Concluir meu curso de **ADS** com excelência  
 - Criar projetos impactantes e contribuir com a comunidade de desenvolvedores  
 - Expandir continuamente meu conhecimento em novas tecnologias  
-
----
-
-## 📊 Estatísticas
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edu-2de&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-2de&layout=compact&theme=github_dark" alt="Linguagens mais usadas" />
-</div>
 
 ---
 
