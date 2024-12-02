@@ -1,7 +1,7 @@
 # Olá! Seja bem-vindo ao meu perfil!
 
 <div align="center" style="background: linear-gradient(135deg, #f3f4f6, #ffffff); padding: 20px; border-radius: 10px; border: 1px solid #ddd; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-## Sobre mim
+# Sobre mim
 
 <p>
   Sou <strong>Eduardo Paim</strong>, um desenvolvedor iniciante de <strong>18 anos</strong>, apaixonado por explorar o universo da programação e criar soluções com tecnologia.  
