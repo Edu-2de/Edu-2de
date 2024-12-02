@@ -6,25 +6,46 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **Senac
 
 ---
 
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+<div align="center" style="background: linear-gradient(135deg, #e3ffe7, #d9e7ff); padding: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
 
-<section style="font-family: Arial, sans-serif; line-height: 1.6; background-color: #f9f9f9; padding: 20px; border-radius: 10px; border: 1px solid #ddd;">
-  <h2 style="text-align: center; color: #4CAF50; font-size: 24px; margin-bottom: 20px;">🛠️ Minhas Habilidades</h2>
-  <ul style="list-style: none; padding: 0;">
-    <li style="margin-bottom: 10px;">
-      <strong><i class="fas fa-code"></i> Linguagens:</strong>
-      <span style="color: #555;">Python | JavaScript | PHP</span>
-    </li>
-    <li style="margin-bottom: 10px;">
-      <strong><i class="fas fa-cubes"></i> Frameworks:</strong>
-      <span style="color: #555;">Django</span>
-    </li>
-    <li style="margin-bottom: 10px;">
-      <strong><i class="fas fa-tools"></i> Ferramentas:</strong>
-      <span style="color: #555;">Git | VS Code</span>
-    </li>
-  </ul>
-</section>
+# 🛠️ Minhas Habilidades
+
+<table>
+  <tr>
+    <td align="center" width="200px">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50px" alt="Python Icon" />
+      <br /><b>Python</b>
+    </td>
+    <td align="center" width="200px">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50px" alt="JavaScript Icon" />
+      <br /><b>JavaScript</b>
+    </td>
+    <td align="center" width="200px">
+      <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" width="50px" alt="PHP Icon" />
+      <br /><b>PHP</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3" style="padding: 10px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="50px" alt="Django Icon" />
+      <br /><b>Django</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200px">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="50px" alt="Git Icon" />
+      <br /><b>Git</b>
+    </td>
+    <td align="center" width="200px">
+      <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="50px" alt="VS Code Icon" />
+      <br /><b>VS Code</b>
+    </td>
+    <td align="center" width="200px"></td>
+  </tr>
+</table>
+
+</div>
+
 
 
 
