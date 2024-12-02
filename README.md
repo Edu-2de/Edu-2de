@@ -6,10 +6,24 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **Senac
 
 ---
 
-## 🛠️ Minhas Habilidades
-🔹 **Linguagens:** &nbsp;&nbsp;&nbsp;&nbsp;`Python` | `JavaScript`| `PHP`  
-🔹 **Frameworks:** &nbsp;&nbsp;&nbsp;&nbsp;`Django`  
-🔹 **Ferramentas:** &nbsp;&nbsp;&nbsp;&nbsp;`Git` | `VS Code`  
+<section style="font-family: Arial, sans-serif; line-height: 1.6; background-color: #f9f9f9; padding: 20px; border-radius: 10px; border: 1px solid #ddd;">
+  <h2 style="text-align: center; color: #4CAF50; font-size: 24px; margin-bottom: 20px;">🛠️ Minhas Habilidades</h2>
+  <ul style="list-style: none; padding: 0;">
+    <li style="margin-bottom: 10px;">
+      <strong>🔹 Linguagens:</strong>
+      <span style="color: #555;">Python | JavaScript | PHP</span>
+    </li>
+    <li style="margin-bottom: 10px;">
+      <strong>🔹 Frameworks:</strong>
+      <span style="color: #555;">Django</span>
+    </li>
+    <li style="margin-bottom: 10px;">
+      <strong>🔹 Ferramentas:</strong>
+      <span style="color: #555;">Git | VS Code</span>
+    </li>
+  </ul>
+</section>
+
 
 ---
 
