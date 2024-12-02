@@ -16,10 +16,10 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **Senac
 
 ---
 
-## 🌱 O que estou aprendendo atualmente
-- Desenvolvimento backend com **Django**  
-- Boas práticas no desenvolvimento web  
-- Projetos colaborativos e gestão de código no GitHub  
+## Atualmente aprendendo
+💻 **Desenvolvimento Backend:** Explorando as funcionalidades avançadas do **Django** para criar aplicações robustas e escaláveis.  
+🛡️ **Boas Práticas no Desenvolvimento Web:** Escrevendo código limpo, seguro e eficiente para projetos reais.  
+🤝 **Colaboração e Git:** Participando de projetos colaborativos e aprimorando habilidades de versionamento com **GitHub**.
 
 ---
 
