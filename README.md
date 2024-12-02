@@ -1,4 +1,4 @@
-# ✨ Olá! Seja bem-vindo ao meu perfil!
+# Olá! Seja bem-vindo ao meu perfil!
 
 ## 🌟 Sobre mim
 Sou **Eduardo Paim**, um desenvolvedor iniciante de 18 anos, apaixonado por explorar o universo da programação e criar soluções com tecnologia.  
@@ -39,8 +39,15 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **Senac
 ---
 
 ## 📫 Vamos nos conectar?
-- 📧 **Email:** [edupaim1712@gmail.com](mailto:edupaim1712@gmail.com)  
-- 📸 **Instagram:** [@edu.2de](https://www.instagram.com/edu.2de/)  
+<div align="center">
+  <a href="mailto:edupaim1712@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/edu.2de/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
 
 ---
 
