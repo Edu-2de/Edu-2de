@@ -53,7 +53,7 @@
 
 ---
 
-## 📈 GitHub Overview
+## GitHub Overview
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Edu-2de&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
@@ -70,7 +70,7 @@
 
 ---
 
-## 📬 Contact
+## Contact
 
 [![Email](https://img.shields.io/badge/-Email-333?style=flat&logo=gmail&logoColor=white)](mailto:edupaim1712@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-333?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/edu.2de/)
