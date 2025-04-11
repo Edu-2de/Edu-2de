@@ -1,6 +1,6 @@
 # Eduardo Paim
 
-> Full Stack Developer (in training) — 18 y/o  
+> Full Stack Developer (in training) — 19 y/o  
 > Student of Systems Analysis and Development @ Senac RS  
 > Focused on real-world backend & web app development
 
