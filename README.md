@@ -1,19 +1,61 @@
-👋 Hello and welcome to my profile!
-👨‍💻 About Me
-<div align="center" style="background: linear-gradient(135deg, #f3f4f6, #ffffff); padding: 20px; border-radius: 10px; border: 1px solid #ddd; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);"> <p> I'm <strong>Eduardo Paim</strong>, an 18-year-old aspiring <strong>Full Stack Developer</strong> with a passion for creating digital solutions through code.<br> Currently studying <strong>System Analysis and Development</strong> at <strong>Senac RS</strong>, I'm focused on developing real-world projects, especially using <strong>Django</strong>. </p> <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="150px" alt="Programming Icon" style="margin-top: 20px; border-radius: 10px;"> </div>
-🛠️ Skills
-<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; border: 1px solid #ddd;"> <ul style="list-style: none; padding: 0; font-family: Arial, sans-serif; line-height: 1.6;"> <li><strong>Languages:</strong> Python | JavaScript | PHP | HTML | CSS | SQL | C++ | Java | TypeScript</li> <li><strong>Frameworks & Libraries:</strong> Django | React.js | Node.js</li> <li><strong>Tools:</strong> Git | GitHub | GitLab | VS Code | REST APIs</li> </ul> </div>
-📈 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edu-2de&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-2de&layout=compact&theme=github_dark" /> </div>
-📚 Currently Learning
-<table align="center"> <tr> <td align="center" width="33%"> <img src="https://img.icons8.com/color/48/000000/django.png" /><br> <strong>Advanced Django</strong><br> Building scalable and secure apps. </td> <td align="center" width="33%"> <img src="https://img.icons8.com/color/48/000000/react-native.png" /><br> <strong>React.js</strong><br> Creating dynamic user interfaces. </td> <td align="center" width="33%"> <img src="https://img.icons8.com/color/48/000000/git.png" /><br> <strong>Version Control</strong><br> Improving Git/GitHub collaboration. </td> </tr> </table>
-🎯 Goals
-Graduate in System Analysis and Development
+# Eduardo Paim
 
-Build impactful full stack projects
+> Developer | Systems Analysis and Development Student @ Senac RS  
+> Focused on building solid backend systems and interactive web applications
 
-Continuously learn new technologies and improve best practices
+---
 
-📬 Contact
-<div align="center"> <a href="mailto:edupaim1712@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> &nbsp; <a href="https://www.instagram.com/edu.2de/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </div>
-Thanks for stopping by — feel free to check out my projects and connect! 🚀
+## 💼 About Me
+
+I'm an 18-year-old aspiring full stack developer currently studying **Systems Analysis and Development** at **Senac RS**. I enjoy building practical solutions, learning new technologies, and working on real-world projects — especially with **Django** and modern web stacks.
+
+---
+
+## 🧠 Skills
+
+- **Languages:**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+- **Frameworks & Tools:**  
+  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+- 🔧 Advanced Django: APIs, Security, and Scalability  
+- 🧩 Frontend Development with React.js  
+- 🔁 Git Workflows for Team Collaboration  
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Edu-2de&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-2de&layout=compact&theme=default" />
+</div>
+
+---
+
+## 📫 Contact
+
+- Email: [edupaim1712@gmail.com](mailto:edupaim1712@gmail.com)  
+- Instagram: [@edu.2de](https://www.instagram.com/edu.2de/)
+
+---
+
+_Thanks for visiting my profile!_
