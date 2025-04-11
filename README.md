@@ -6,7 +6,7 @@
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <table>
   <tr>
@@ -45,7 +45,7 @@
 
 ---
 
-## 📌 Focus Areas
+##  Focus Areas
 
 - REST APIs with Django & DRF  
 - UI building with React.js  
@@ -62,7 +62,7 @@
 
 ---
 
-## 🎯 Goals
+##  Goals
 
 - Graduate in **ADS** with solid project portfolio  
 - Build scalable full stack apps  
