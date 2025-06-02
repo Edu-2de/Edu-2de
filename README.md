@@ -1,68 +1,75 @@
-<!--
-Perfil minimalista, criativo e compacto — tons cinza-azulados, informações agrupadas e visual fluido.
-Este README foi otimizado para visualização no GitHub, usando Markdown puro, imagens e badges.
--->
+<br clear="both">
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
+<h1 align="left">Eduardo Paim</h1>
 
-# Eduardo Paim
+###
 
-**Full Stack Developer** • 19y old  
-Senac RS &nbsp;|&nbsp; Minimalismo & Criatividade
+<img align="right" height="230" src="https://images.steamusercontent.com/ugc/1920240577473879513/E78D69340BF22AE35D74395C361288ABEB4187A8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
-Graduando em **ADS** (Senac RS), apaixonado por criar APIs robustas, interfaces modernas e experiências minimalistas. Curioso, autodidata e colaborador open source.
+###
 
-<br>
+<p align="left">Full Stack Developer | 19 anos<br>Graduando em Análise e Desenvolvimento de Sistemas pelo Senac RS<br><br>Desenvolvedor Full Stack com foco na criação de APIs escaláveis, interfaces modernas e experiências de usuário minimalistas. Possui perfil autodidata, curioso e comprometido com boas práticas de desenvolvimento. Participa ativamente de projetos open source e busca constantemente aprimorar suas habilidades técnicas e contribuir com a comunidade. Interesse especial por arquitetura de software, desenvolvimento web e integração de sistemas.</p>
 
-**Stack Essencial:**  
-Python • JavaScript • TypeScript • React • Django • Node.js • PostgreSQL • Git
+###
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="24" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" title="VSCode"/>
-</div>
+<br clear="both">
 
-<br>
+<h2 align="left">Stats</h2>
 
-**Objetivos:**  
-Projetos de impacto, aplicações escaláveis e elegantes, evolução constante — sem perder minha essência.
-
-<br>
-
-[![Email](https://img.shields.io/badge/Email-5CA4D8?style=flat-square&logo=gmail&logoColor=181C23)](mailto:edupaim1712@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-5CA4D8?style=flat-square&logo=instagram&logoColor=181C23)](https://www.instagram.com/edu.2de/)
-
-   </td>
-   <td valign="middle" align="center" width="40%">
-     <img src="assets/tumblr_d207efe93ddb5fbdbd517277bd0aacf1_7a6ec893_540.gif" width="165" alt="gif" style="border-radius:14px; border:2px solid #5CA4D8; background:#171c22; box-shadow:0 0 16px #5CA4D899;"/>
-   </td>
-  </tr>
-</table>
-
-<br>
+###
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Edu-2de&show_icons=true&theme=react&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" height="115"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-2de&layout=compact&theme=react&hide_border=true&hide_title=true" height="115"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Edu-2de&theme=react&hide_border=true&background=FFFFFF00&fire=5CA4D8&currStreakLabel=5CA4D8" height="104"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Edu-2de&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Edu-2de&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Edu-2de&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<br>
+###
 
-<p align="center" style="color:#7ea5c9;font-size:1em; margin-top:18px;">
-  <sub>
-    Crio, evoluo e compartilho — sempre buscando o próximo nível.<br>
-    Obrigado pela visita!
-  </sub>
-</p>
+<h2 align="left"></h2>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" alt="django logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
+</div>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/Edu-2de/Edu-2de/output/snake.svg" alt="Snake animation" />
+
+###
