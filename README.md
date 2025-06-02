@@ -43,7 +43,7 @@ Projetos de impacto, aplicações escaláveis e elegantes, evolução constante 
 
    </td>
    <td valign="middle" align="center" width="40%">
-     <img src="assets/tumblr_fd8dea1b4d5a230a39adf6f64111ae54_5849b3fd_1280.gif" width="165" alt="gif" style="border-radius:14px; border:2px solid #5CA4D8; background:#171c22; box-shadow:0 0 16px #5CA4D899;"/>
+     <img src="assets/tumblr_d207efe93ddb5fbdbd517277bd0aacf1_7a6ec893_540.gif" width="165" alt="gif" style="border-radius:14px; border:2px solid #5CA4D8; background:#171c22; box-shadow:0 0 16px #5CA4D899;"/>
    </td>
   </tr>
 </table>
