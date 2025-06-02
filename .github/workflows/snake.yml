@@ -16,17 +16,17 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate snake.svg (Gotham Green palette, glow effect)
+      - name: generate snake.svg (Gotham Green palette, dark dots, glow effect)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?palette=[0C1015,1de160,39ff14,0C1015]&effect=glow
+            dist/snake.svg?palette=[0C1015,1de160,232B33,232B33]&effect=glow
             # 0C1015 = fundo Gotham
             # 1de160 = verde neon para a cobra
-            # 39ff14 = verde claro para os "dots"
-            # 0C1015 = fundo dos pontos (pode ajustar para outra cor escura se quiser)
-            # effect=glow ativa um efeito de brilho (glow) na animação
+            # 232B33 = quadrados/dots escuros
+            # 232B33 = apple (comida) escuro também
+            # effect=glow = efeito de brilho só na cobra
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
