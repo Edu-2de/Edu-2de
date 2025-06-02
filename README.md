@@ -8,9 +8,8 @@
 
 <p align="justify">
 Full Stack Developer | 19 anos <br>
-Graduando em Análise e Desenvolvimento de Sistemas (Senac RS)<br><br>
-Desenvolvedor Full Stack focado em APIs, interfaces modernas e boas práticas. Autodidata, participa de projetos open source e busca constante evolução. Interesse em arquitetura de software e integração de sistemas.
-</p>
+Graduando em Análise e Desenvolvimento de Sistemas (Senac RS)
+Desenvolvedor Full Stack focado em APIs, interfaces modernas e boas práticas. Autodidata, participa de projetos open source e busca constante evolução.<br><br>
 
 <!-- Badges de linguagens -->
 <p align="left" style="margin-top: 12px;">
@@ -29,8 +28,6 @@ Desenvolvedor Full Stack focado em APIs, interfaces modernas e boas práticas. A
 </p>
 
 ###
-
-<br clear="both">
 
 <h2 align="left">Stats</h2>
 
