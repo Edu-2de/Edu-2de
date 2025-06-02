@@ -44,6 +44,6 @@ Desenvolvedor Full Stack focado em APIs, interfaces modernas e boas práticas. A
 
 ###
 
-<img src="https://raw.githubusercontent.com/Edu-2de/Edu-2de/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Edu-2de/Edu-2de/snake.svg" alt="Snake animation" />
 
 ###
