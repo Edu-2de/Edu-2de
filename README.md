@@ -31,51 +31,7 @@ Desenvolvedor Full Stack com foco em APIs escaláveis, interfaces modernas e exp
 
 ###
 
-<!-- Tabela de tecnologias com espaçamento aumentado entre itens e espaço extra nas bordas -->
-<h2 align="left">Techs</h2>
 
-<div align="center" style="padding: 32px 0;">
-  <table width="100%" style="min-width:800px;table-layout:fixed;border-spacing: 32px 16px;">
-    <tr>
-      <th width="33%" style="padding-top:24px; padding-bottom:24px;">Front-end</th>
-      <th width="33%" style="padding-top:24px; padding-bottom:24px;">Back-end</th>
-      <th width="33%" style="padding-top:24px; padding-bottom:24px;">Banco de Dados</th>
-    </tr>
-    <tr>
-      <!-- FRONT-END -->
-      <td align="center" valign="top" style="padding:24px 0;">
-        <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:32px 24px; padding:0 8px;">
-          <img src="https://skillicons.dev/icons?i=js" height="28" alt="javascript logo" />
-          <img src="https://skillicons.dev/icons?i=ts" height="28" alt="typescript logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" alt="nextjs logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="html5 logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="css3 logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" alt="bootstrap logo" />
-        </div>
-      </td>
-      <!-- BACK-END -->
-      <td align="center" valign="top" style="padding:24px 0;">
-        <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:32px 24px; padding:0 8px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="python logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="28" alt="django logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="28" alt="php logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="java logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" alt="cplusplus logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="28" alt="csharp logo" />
-        </div>
-      </td>
-      <!-- BANCO DE DADOS -->
-      <td align="center" valign="top" style="padding:24px 0;">
-        <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:32px 24px; padding:0 8px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="postgresql logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="28" alt="sqlite logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="mysql logo" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ###
 
