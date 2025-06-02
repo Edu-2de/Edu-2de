@@ -6,7 +6,11 @@
 
 ###
 
-<p align="left">Full Stack Developer | 19 anos<br>Graduando em Análise e Desenvolvimento de Sistemas pelo Senac RS<br><br>Desenvolvedor Full Stack com foco na criação de APIs escaláveis, interfaces modernas e experiências de usuário minimalistas. Possui perfil autodidata, curioso e comprometido com boas práticas de desenvolvimento. Participa ativamente de projetos open source e busca constantemente aprimorar suas habilidades técnicas e contribuir com a comunidade. Interesse especial por arquitetura de software, desenvolvimento web e integração de sistemas.</p>
+<p align="justify">
+Full Stack Developer | 19 anos <br>
+Graduando em Análise e Desenvolvimento de Sistemas (Senac RS)<br><br>
+Desenvolvedor Full Stack com foco em APIs escaláveis, interfaces modernas e experiências minimalistas. Autodidata, curioso e comprometido com boas práticas. Participa de projetos open source, buscando evolução constante e contribuindo com a comunidade. Interesse em arquitetura de software, web e integração de sistemas.
+</p>
 
 ###
 
