@@ -19,9 +19,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edu-2de&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="110" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Edu-2de&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&order=2" height="110" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Edu-2de&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="110" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Edu-2de&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Edu-2de&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -30,46 +29,40 @@
 
 ###
 
-<h2 align="left">Stacks & Skills</h2>
-
-<div align="center" style="margin: 0 auto; max-width: 950px;">
-  <table style="
-    background: #161B22;
-    border-radius: 20px;
-    box-shadow: 0 4px 24px #000b;
-    padding: 28px 18px;
-    margin: 24px 0 36px 0;
-    width:100%;
-    border-collapse: separate;
-    border-spacing: 0 24px;
-    table-layout: fixed;
-  ">
-    <tr style="height: 70px;">
-      <th style="color: #81A1C1; font-size: 20px; border-radius: 18px 0 0 18px; background: #181E28;">Linguagens</th>
-      <th style="color: #81A1C1; font-size: 20px; background: #181E28;">Web & UI</th>
-      <th style="color: #81A1C1; font-size: 20px; background: #181E28;">Back-end & Frameworks</th>
-      <th style="color: #81A1C1; font-size: 20px; border-radius: 0 18px 18px 0; background: #181E28;">Databases</th>
-    </tr>
-    <tr style="height: 78px; vertical-align: middle;">
-      <!-- Linguagens -->
-      <td style="padding: 22px 12px; border-radius: 14px; background: #202B36; text-align: left; font-size: 16px; color: #D6DEE6;">
-        JavaScript, TypeScript, Python, PHP, Java, C++, C#
-      </td>
-      <!-- Web & UI -->
-      <td style="padding: 22px 12px; border-radius: 14px; background: #202B36; text-align: left; font-size: 16px; color: #D6DEE6;">
-        HTML5, CSS3, Bootstrap, React, Next.js
-      </td>
-      <!-- Back-end & Frameworks -->
-      <td style="padding: 22px 12px; border-radius: 14px; background: #202B36; text-align: left; font-size: 16px; color: #D6DEE6;">
-        Django, Spring Boot, Node.js, Express
-      </td>
-      <!-- Databases -->
-      <td style="padding: 22px 12px; border-radius: 14px; background: #202B36; text-align: left; font-size: 16px; color: #D6DEE6;">
-        PostgreSQL, MySQL, SQLite
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" alt="django logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
 </div>
+
 ###
 
 <h2 align="left"></h2>
