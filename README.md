@@ -29,38 +29,53 @@
 
 ###
 
+<!-- Tabela maior: largura total da linha (100%) -->
+<!-- Tabela de tecnologias com largura total e ícones em linha (maior largura possível) -->
+<!-- Tabela de tecnologias com ícones menores, mais espaçamento e melhor organização -->
+
+<h2 align="left">Tecnologias e Ferramentas</h2>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" alt="django logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
+  <table width="100%" style="min-width:700px;table-layout:fixed;">
+    <tr>
+      <th width="33%">Front-end</th>
+      <th width="33%">Back-end</th>
+      <th width="33%">Banco de Dados</th>
+    </tr>
+    <tr>
+      <!-- FRONT-END -->
+      <td align="center" valign="top">
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+          <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" style="margin:8px;" />
+          <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" style="margin:8px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" style="margin:8px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" style="margin:8px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" style="margin:8px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" style="margin:8px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" style="margin:8px;" />
+        </div>
+      </td>
+      <!-- BACK-END -->
+      <td align="center" valign="top">
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" style="margin:8px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" style="margin:8px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" style="margin:8px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" style="margin:8px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" style="margin:8px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" style="margin:8px;" />
+        </div>
+      </td>
+      <!-- BANCO DE DADOS -->
+      <td align="center" valign="top">
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" style="margin:8px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" style="margin:8px;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" style="margin:8px;" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
