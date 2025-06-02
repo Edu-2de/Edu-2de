@@ -1,5 +1,5 @@
 <br>
-<h1 align="center">Eduardo Paim</h1>
+<h1 align="left">Eduardo Paim</h1>
 
 ###
 
