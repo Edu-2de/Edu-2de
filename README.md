@@ -19,7 +19,7 @@ Você pode adicionar um GIF na seção "Sobre mim" onde indicado.
 
 <p align="center">
   <!-- Adicione seu GIF profissional aqui -->
-  <img src="COLE-SEU-GIF-AQUI.gif" alt="GIF animado" width="260" style="border-radius:8px; border:2px solid #134673;">
+  <img src="assets/perfil1.gif" alt="GIF animado" width="260" style="border-radius:8px; border:2px solid #134673;">
 </p>
 
 <ul>
