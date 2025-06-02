@@ -9,23 +9,23 @@
 <p align="justify">
 Full Stack Developer | 19 anos <br>
 Graduando em Análise e Desenvolvimento de Sistemas (Senac RS)<br><br>
-Desenvolvedor Full Stack com foco em APIs escaláveis, interfaces modernas e experiências minimalistas. Autodidata, curioso e comprometido com boas práticas. Participa de projetos open source, buscando evolução constante e contribuindo com a comunidade. Interesse em arquitetura de software, web e integração de sistemas.
+Desenvolvedor Full Stack focado em APIs, interfaces modernas e boas práticas. Autodidata, participa de projetos open source e busca constante evolução. Interesse em arquitetura de software e integração de sistemas.
 </p>
 
 <!-- Badges de linguagens -->
 <p align="left" style="margin-top: 12px;">
-  <img src="https://img.shields.io/badge/JavaScript-24292f?style=for-the-badge&logo=javascript&logoColor=fff" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=fff" alt="Python"/>
-  <img src="https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=fff" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=java&logoColor=fff" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=fff" alt="C++"/>
-  <img src="https://img.shields.io/badge/C%23-68217a?style=for-the-badge&logo=c-sharp&logoColor=fff" alt="C#"/>
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-563d7c?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=fff" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=fff" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/JavaScript-0C1015?style=for-the-badge&logo=javascript&logoColor=F7E018" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-0C1015?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-0C1015?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/PHP-0C1015?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Java-0C1015?style=for-the-badge&logo=java&logoColor=EA2D2E" alt="Java"/>
+  <img src="https://img.shields.io/badge/C++-0C1015?style=for-the-badge&logo=c%2b%2b&logoColor=00599C" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-0C1015?style=for-the-badge&logo=c-sharp&logoColor=9B4F96" alt="C#"/>
+  <img src="https://img.shields.io/badge/HTML5-0C1015?style=for-the-badge&logo=html5&logoColor=E34C26" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-0C1015?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0C1015?style=for-the-badge&logo=postgresql&logoColor=336791" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQLite-0C1015?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/MySQL-0C1015?style=for-the-badge&logo=mysql&logoColor=00758F" alt="MySQL"/>
 </p>
 
 ###
