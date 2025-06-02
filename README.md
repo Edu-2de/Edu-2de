@@ -1,25 +1,28 @@
 <!--
 Eduardo Paim — Full Stack Developer (in training)
-Creative, professional README. No emojis. 
-GitHub does NOT allow custom CSS/JS in profile READMEs, so use creative Markdown, tables, and SVGs for a unique, "front-end" inspired look.
+No emojis. This README uses animated SVGs, color, and layout tricks for a "front-end", creative, and professional look on GitHub.
+All effects here are safe for GitHub profile README.
 -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Eduardo+Paim;Full+Stack+Developer+%E2%80%94+19+y%2Fo;Backend+%26+Web+Apps+%7C+Senac+RS+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2200&pause=670&color=00ADB5&center=true&vCenter=true&width=520&lines=Eduardo+Paim;Full+Stack+Developer;Senac+RS+%7C+19+y%2Fo;Real+World+Backend+%26+Web+Apps" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <b>Building real-world solutions with code.</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00adb5&height=100&section=header&text=Welcome!&fontSize=40&fontAlignY=35&animation=twinkling" alt="header" />
 </p>
+
+<p align="center"><b style="font-size:1.2em;">Transformando ideias em aplicações escaláveis. <br> Apaixonado por back-end, web e tecnologia.</b></p>
 
 ---
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td valign="top" width="50%">
-      <h3>Tech Stack</h3>
+    <td valign="top" width="55%">
+      <h3>&#160;Tech Stack</h3>
       <table>
         <tr>
-          <td><b>Languages</b></td>
+          <td><b>Linguagens</b></td>
           <td>
             <img src="https://img.shields.io/badge/Python-222?style=flat-square&logo=python&logoColor=00adb5" />
             <img src="https://img.shields.io/badge/JavaScript-222?style=flat-square&logo=javascript&logoColor=00adb5" />
@@ -41,7 +44,7 @@ GitHub does NOT allow custom CSS/JS in profile READMEs, so use creative Markdown
           </td>
         </tr>
         <tr>
-          <td><b>Tools</b></td>
+          <td><b>Ferramentas</b></td>
           <td>
             <img src="https://img.shields.io/badge/Git-222?style=flat-square&logo=git&logoColor=00adb5" />
             <img src="https://img.shields.io/badge/GitHub-222?style=flat-square&logo=github&logoColor=00adb5" />
@@ -52,18 +55,18 @@ GitHub does NOT allow custom CSS/JS in profile READMEs, so use creative Markdown
         </tr>
       </table>
     </td>
-    <td valign="top" width="50%">
-      <h3>Focus Areas</h3>
+    <td valign="top" width="45%">
+      <h3>&#160;Minhas Direções</h3>
       <ul>
-        <li>REST APIs com Django & DRF</li>
-        <li>UI building com React.js</li>
-        <li>Controle de versão & CI/CD workflows</li>
+        <li><b>REST APIs</b> com Django & DRF</li>
+        <li><b>UI building</b> com React.js</li>
+        <li><b>Versionamento & CI/CD</b> (Git, pipelines)</li>
       </ul>
-      <h3>Goals</h3>
+      <h3>&#160;Objetivos</h3>
       <ul>
-        <li>Graduar em <b>ADS</b> com projetos sólidos</li>
-        <li>Construir apps escaláveis (full stack)</li>
-        <li>Contribuir com open source</li>
+        <li>Graduar em <b>ADS</b> com projetos autorais sólidos</li>
+        <li>Construir apps <b>full stack</b> escaláveis</li>
+        <li>Contribuir em iniciativas open source</li>
       </ul>
     </td>
   </tr>
@@ -71,37 +74,43 @@ GitHub does NOT allow custom CSS/JS in profile READMEs, so use creative Markdown
 
 ---
 
-<h3 align="center">📊 <b>GitHub Overview</b></h3>
+<h3 align="center">✨ <b>GitHub Overview</b> ✨</h3>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Edu-2de&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-2de&layout=compact&theme=default" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Edu-2de&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-2de&layout=compact&theme=react" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Edu-2de&theme=onestar&margin-w=10&column=7" alt="Trophy" />
 </p>
 
 ---
 
-<div align="center">
-  <h3>Contact</h3>
-  <a href="mailto:edupaim1712@gmail.com" style="color:#00adb5;font-weight:bold;text-decoration:none;">Email</a> &nbsp;|&nbsp;
-  <a href="https://www.instagram.com/edu.2de/" style="color:#00adb5;font-weight:bold;text-decoration:none;">Instagram</a>
-</div>
+<h3 align="center">Contato</h3>
+<p align="center">
+  <a href="mailto:edupaim1712@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-00adb5?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/edu.2de/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-00adb5?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<!-- Creative ASCII divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Edu-2de/Edu-2de/main/assets/divider.svg" width="340" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00adb5&height=80&section=footer" alt="footer" />
+</p>
+<p align="center">
+  <sub style="color:#bdbdbd;font-size:0.95rem;">&lt;/&gt; Obrigado por visitar!</sub>
 </p>
 
-<p align="center" style="color:#bdbdbd;font-size:0.95rem;">
-  <i>&lt;/&gt; Thanks for stopping by!</i>
-</p>
-
-<!-- 
-⭐ Dicas Criativas:
-- O SVG typing acima simula efeito "digitando" no topo (não é emoji, é SVG animado).
-- Cores e badges personalizados padronizam a identidade visual (use #00adb5 para destacar).
-- Divida as áreas com tabelas e seções, para lembrar cards/sections de UI moderna.
-- ASCII ou SVG como separador para "front-end feel".
-- Sem emojis, mas com visual marcante e único.
+<!--
+Dicas de efeito:
+- SVGs animados (Typing SVG, Capsule Render, GitHub Trophies) para "efeitos visuais" únicos.
+- Badges padronizados em azul-água (#00adb5) para identidade visual.
+- Uso de tabelas, alinhamento e divisores para um layout de "dashboard"/front-end.
+- Não use emojis, mas abuse de SVGs e layout para diferenciação.
+- Para um visual ainda mais avançado, crie assets SVG próprios e coloque na pasta assets/ do seu repositório!
 -->
