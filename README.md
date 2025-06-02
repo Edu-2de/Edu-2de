@@ -25,15 +25,6 @@ Desenvolvedor Full Stack com foco em APIs escaláveis, interfaces modernas e exp
   <img src="https://streak-stats.demolab.com?user=Edu-2de&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<h2 align="left"></h2>
-
-###
-
-
-
-###
 
 <h2 align="left"></h2>
 
