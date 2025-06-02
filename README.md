@@ -30,7 +30,7 @@
 ###
 
 <!-- Tabela de tecnologias com espaçamento aumentado entre itens e espaço extra nas bordas -->
-<h2 align="left">Tecnologias e Ferramentas</h2>
+<h2 align="left">Techs</h2>
 
 <div align="center" style="padding: 32px 0;">
   <table width="100%" style="min-width:800px;table-layout:fixed;border-spacing: 32px 16px;">
