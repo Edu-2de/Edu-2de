@@ -1,72 +1,60 @@
 <!--
 Eduardo Paim — Full Stack Developer (in training)
-No emojis. This README uses animated SVGs, color, and layout tricks for a "front-end", creative, and professional look on GitHub.
-All effects here are safe for GitHub profile README.
+README clean, elegante, moderno, com SVGs animados e efeitos visuais para destacar Tech Stack e estatísticas.
+Foco visual: minimalismo, identidade, destaque na stack, sem emojis.
 -->
 
+<!-- Header: Name + Animated SVG -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2200&pause=670&color=00ADB5&center=true&vCenter=true&width=520&lines=Eduardo+Paim;Full+Stack+Developer;Senac+RS+%7C+19+y%2Fo;Real+World+Backend+%26+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=900&color=00ADB5&center=true&vCenter=true&width=550&lines=Eduardo+Paim;Full+Stack+Developer;Senac+RS+%7C+19+y%2Fo" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00adb5&height=100&section=header&text=Welcome!&fontSize=40&fontAlignY=35&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00adb5&height=80&section=header&animation=twinkling" alt="header" />
 </p>
 
-<p align="center"><b style="font-size:1.2em;">Transformando ideias em aplicações escaláveis. <br> Apaixonado por back-end, web e tecnologia.</b></p>
+<p align="center">
+  <b style="font-size:1.17em;color:#222831;">
+    Desenvolvedor focado em soluções reais, tecnologia de ponta e design limpo.
+  </b>
+</p>
 
 ---
 
-<table align="center" width="100%">
+<!-- Tech Stack: custom SVG badges for a unique, elegant visual -->
+<h2 align="center" style="color:#00adb5">Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,php,postgres,html,css,cpp,java&perline=9&theme=light" alt="Languages" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,react,nodejs&perline=6&theme=light" alt="Frameworks" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman&perline=6&theme=light" alt="Ferramentas" />
+</p>
+<!--
+  SVGs via skillicons.dev deixam a stack com cara de "dashboard", elegante e moderna.
+-->
+
+---
+
+<!-- Focus & Goals: clean layout -->
+<table align="center" width="100%" style="border:none;">
   <tr>
-    <td valign="top" width="55%">
-      <h3>&#160;Tech Stack</h3>
-      <table>
-        <tr>
-          <td><b>Linguagens</b></td>
-          <td>
-            <img src="https://img.shields.io/badge/Python-222?style=flat-square&logo=python&logoColor=00adb5" />
-            <img src="https://img.shields.io/badge/JavaScript-222?style=flat-square&logo=javascript&logoColor=00adb5" />
-            <img src="https://img.shields.io/badge/TypeScript-222?style=flat-square&logo=typescript&logoColor=00adb5" />
-            <img src="https://img.shields.io/badge/PHP-222?style=flat-square&logo=php&logoColor=00adb5" />
-            <img src="https://img.shields.io/badge/SQL-222?style=flat-square&logo=postgresql&logoColor=00adb5" />
-            <img src="https://img.shields.io/badge/HTML5-222?style=flat-square&logo=html5&logoColor=00adb5" />
-            <img src="https://img.shields.io/badge/CSS3-222?style=flat-square&logo=css3&logoColor=00adb5" />
-            <img src="https://img.shields.io/badge/C++-222?style=flat-square&logo=cplusplus&logoColor=00adb5" />
-            <img src="https://img.shields.io/badge/Java-222?style=flat-square&logo=java&logoColor=00adb5" />
-          </td>
-        </tr>
-        <tr>
-          <td><b>Frameworks</b></td>
-          <td>
-            <img src="https://img.shields.io/badge/Django-222?style=flat-square&logo=django&logoColor=00adb5" />
-            <img src="https://img.shields.io/badge/React-222?style=flat-square&logo=react&logoColor=00adb5" />
-            <img src="https://img.shields.io/badge/Node.js-222?style=flat-square&logo=node.js&logoColor=00adb5" />
-          </td>
-        </tr>
-        <tr>
-          <td><b>Ferramentas</b></td>
-          <td>
-            <img src="https://img.shields.io/badge/Git-222?style=flat-square&logo=git&logoColor=00adb5" />
-            <img src="https://img.shields.io/badge/GitHub-222?style=flat-square&logo=github&logoColor=00adb5" />
-            <img src="https://img.shields.io/badge/GitLab-222?style=flat-square&logo=gitlab&logoColor=00adb5" />
-            <img src="https://img.shields.io/badge/VSCode-222?style=flat-square&logo=visualstudiocode&logoColor=00adb5" />
-            <img src="https://img.shields.io/badge/REST%20API-222?style=flat-square&logo=postman&logoColor=00adb5" />
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td valign="top" width="45%">
-      <h3>&#160;Minhas Direções</h3>
+    <td valign="top" width="50%">
+      <b>O que faço</b>
       <ul>
-        <li><b>REST APIs</b> com Django & DRF</li>
-        <li><b>UI building</b> com React.js</li>
-        <li><b>Versionamento & CI/CD</b> (Git, pipelines)</li>
+        <li>APIs REST robustas com <b>Django & DRF</b></li>
+        <li>Interfaces modernas com <b>React.js</b></li>
+        <li>Versionamento contínuo e CI/CD</li>
       </ul>
-      <h3>&#160;Objetivos</h3>
+    </td>
+    <td valign="top" width="50%">
+      <b>Objetivos</b>
       <ul>
-        <li>Graduar em <b>ADS</b> com projetos autorais sólidos</li>
-        <li>Construir apps <b>full stack</b> escaláveis</li>
-        <li>Contribuir em iniciativas open source</li>
+        <li>Graduar em <b>ADS</b> com projetos de impacto</li>
+        <li>Desenvolver apps <b>full stack</b> escaláveis</li>
+        <li>Atuar em iniciativas open source</li>
       </ul>
     </td>
   </tr>
@@ -74,20 +62,23 @@ All effects here are safe for GitHub profile README.
 
 ---
 
-<h3 align="center">✨ <b>GitHub Overview</b> ✨</h3>
-
+<!-- GitHub Stats: commit effect with streak SVG for visual highlight -->
+<h2 align="center" style="color:#00adb5">GitHub Overview</h2>
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Edu-2de&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-2de&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Edu-2de&show_icons=true&theme=react&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-2de&layout=compact&theme=react&hide_border=true&hide_title=true" height="150"/>
 </p>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Edu-2de&theme=onestar&margin-w=10&column=7" alt="Trophy" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edu-2de&theme=react&hide_border=true&background=FFFFFF00&fire=00adb5&currStreakLabel=00adb5" alt="GitHub Streak" height="130"/>
 </p>
+<!--
+  O SVG de streak destaca visualmente o ritmo de commits, trazendo um efeito de "pulse" e progresso.
+-->
 
 ---
 
-<h3 align="center">Contato</h3>
+<!-- Contact: clean, minimal, elegant -->
+<h2 align="center" style="color:#00adb5">Contato</h2>
 <p align="center">
   <a href="mailto:edupaim1712@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-00adb5?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -97,20 +88,17 @@ All effects here are safe for GitHub profile README.
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00adb5&height=80&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00adb5&height=60&section=footer" alt="footer" />
 </p>
-<p align="center">
-  <sub style="color:#bdbdbd;font-size:0.95rem;">&lt;/&gt; Obrigado por visitar!</sub>
+<p align="center" style="color:#bdbdbd;font-size:0.95rem;">
+  <sub>&lt;/&gt; Obrigado por visitar!</sub>
 </p>
 
 <!--
-Dicas de efeito:
-- SVGs animados (Typing SVG, Capsule Render, GitHub Trophies) para "efeitos visuais" únicos.
-- Badges padronizados em azul-água (#00adb5) para identidade visual.
-- Uso de tabelas, alinhamento e divisores para um layout de "dashboard"/front-end.
-- Não use emojis, mas abuse de SVGs e layout para diferenciação.
-- Para um visual ainda mais avançado, crie assets SVG próprios e coloque na pasta assets/ do seu repositório!
+Dicas finais:
+- O uso de skillicons.dev deixa a stack única e moderna.
+- O streak stats destaca atividade/commits com efeito visual elegante.
+- Linhas e títulos minimalistas para máxima clareza e foco na identidade.
+- Se quiser, personalize mais trocando o tema dos SVGs (light/dark) ou alterando a ordem dos stacks.
 -->
