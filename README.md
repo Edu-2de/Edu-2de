@@ -1,97 +1,68 @@
 <!--
-README Clean & Profissional — Base color: #134673
-Você pode adicionar um GIF na seção "Sobre mim" onde indicado.
+Perfil minimalista, criativo e compacto — tons cinza-azulados, informações agrupadas e visual fluido.
+Este README foi otimizado para visualização no GitHub, usando Markdown puro, imagens e badges.
 -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=900&color=134673&center=true&vCenter=true&width=500&lines=Eduardo+Paim;Full+Stack+Developer;Senac+RS+%7C+19+y%2Fo" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <b style="font-size:1.1em;color:#134673;">
-    Desenvolvedor com foco em tecnologia, soluções eficientes e design limpo.
-  </b>
-</p>
-
----
-
-## Sobre mim
-
-<p align="center">
-  <!-- Adicione seu GIF profissional aqui -->
-  <img src="assets/hollow-knight-knight.gif" alt="GIF animado" width="260" style="border-radius:8px; border:2px solid #134673;">
-</p>
-
-<ul>
-  <li>Graduando em <b>Análise e Desenvolvimento de Sistemas</b> pelo Senac RS</li>
-  <li>Foco em desenvolvimento full stack, APIs robustas e interfaces modernas</li>
-  <li>Interesse contínuo em projetos open source e aprendizado constante</li>
-</ul>
-
----
-
-## Stack
-
-<table align="center" style="border:none;">
+<table>
   <tr>
-    <td align="center" width="33%">
-      <b style="color:#134673;">Linguagens</b><br>
-      <img src="https://skillicons.dev/icons?i=python,js,ts,php,java,cpp,html,css,postgres&theme=light" alt="Languages" />
-    </td>
-    <td align="center" width="33%">
-      <b style="color:#134673;">Frameworks</b><br>
-      <img src="https://skillicons.dev/icons?i=django,react,nodejs&theme=light" alt="Frameworks" />
-    </td>
-    <td align="center" width="33%">
-      <b style="color:#134673;">Ferramentas</b><br>
-      <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman&theme=light" alt="Ferramentas" />
-    </td>
+    <td valign="top" width="60%">
+
+# Eduardo Paim
+
+**Full Stack Developer** • 19y old  
+Senac RS &nbsp;|&nbsp; Minimalismo & Criatividade
+
+Graduando em **ADS** (Senac RS), apaixonado por criar APIs robustas, interfaces modernas e experiências minimalistas. Curioso, autodidata e colaborador open source.
+
+<br>
+
+**Stack Essencial:**  
+Python • JavaScript • TypeScript • React • Django • Node.js • PostgreSQL • Git
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="24" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" title="VSCode"/>
+</div>
+
+<br>
+
+**Objetivos:**  
+Projetos de impacto, aplicações escaláveis e elegantes, evolução constante — sem perder minha essência.
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email-5CA4D8?style=flat-square&logo=gmail&logoColor=181C23)](mailto:edupaim1712@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-5CA4D8?style=flat-square&logo=instagram&logoColor=181C23)](https://www.instagram.com/edu.2de/)
+
+   </td>
+   <td valign="middle" align="center" width="40%">
+     <img src="assets/tumblr_fd8dea1b4d5a230a39adf6f64111ae54_5849b3fd_1280.gif" width="165" alt="gif" style="border-radius:14px; border:2px solid #5CA4D8; background:#171c22; box-shadow:0 0 16px #5CA4D899;"/>
+   </td>
   </tr>
 </table>
 
----
+<br>
 
-## O que faço
+<div align="center">
 
-- Desenvolvimento de APIs REST seguras com <b>Django & DRF</b>
-- Interfaces modernas utilizando <b>React.js</b>
-- Controle de versionamento e práticas de CI/CD
+<img src="https://github-readme-stats.vercel.app/api?username=Edu-2de&show_icons=true&theme=react&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" height="115"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-2de&layout=compact&theme=react&hide_border=true&hide_title=true" height="115"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Edu-2de&theme=react&hide_border=true&background=FFFFFF00&fire=5CA4D8&currStreakLabel=5CA4D8" height="104"/>
 
----
+</div>
 
-## Objetivos
+<br>
 
-- Concluir a graduação em <b>ADS</b> com projetos de relevância
-- Desenvolver aplicações escaláveis e de alta qualidade
-- Colaborar e contribuir em projetos open source
-
----
-
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edu-2de&show_icons=true&theme=react&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" height="135"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-2de&layout=compact&theme=react&hide_border=true&hide_title=true" height="135"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edu-2de&theme=react&hide_border=true&background=FFFFFF00&fire=134673&currStreakLabel=134673" alt="GitHub Streak" height="120"/>
-</p>
-
----
-
-## Contato
-
-<p align="center">
-  <a href="mailto:edupaim1712@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-134673?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/edu.2de/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-134673?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center" style="color:#bdbdbd;font-size:0.95rem;">
-  <sub>&lt;/&gt; Obrigado pela visita.</sub>
+<p align="center" style="color:#7ea5c9;font-size:1em; margin-top:18px;">
+  <sub>
+    Crio, evoluo e compartilho — sempre buscando o próximo nível.<br>
+    Obrigado pela visita!
+  </sub>
 </p>
