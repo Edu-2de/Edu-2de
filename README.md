@@ -1,11 +1,11 @@
 <br>
 <h1 align="left">Eduardo Paim</h1>
 
-###
+
 
 <img align="right" height="230" src="https://images.steamusercontent.com/ugc/1920240577473879513/E78D69340BF22AE35D74395C361288ABEB4187A8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
-###
+
 
 <p align="justify">
 Full Stack Developer | 19 anos <br>
@@ -15,11 +15,11 @@ Desenvolvedor Full Stack focado em APIs, interfaces modernas e boas práticas. A
 <br><br>
 
 
-###
+
 
 <h2 align="left">Stats</h2>
 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Edu-2de&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -46,7 +46,7 @@ Desenvolvedor Full Stack focado em APIs, interfaces modernas e boas práticas. A
   </div>
 </div>
 <br><br>
-###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edu-2de/Edu-2de/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edu-2de/Edu-2de/output/pacman-contribution-graph.svg">
@@ -54,6 +54,3 @@ Desenvolvedor Full Stack focado em APIs, interfaces modernas e boas práticas. A
 </picture>
 
 
-###
-
-###
