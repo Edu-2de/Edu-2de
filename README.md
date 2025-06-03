@@ -11,8 +11,7 @@
 Full Stack Developer | 19 years old | <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/br.svg" width="22" alt="Brazil flag" style="vertical-align: middle"/> <br><br>
 Undergraduate student in Systems Analysis and Development (Senac RS).
 Full Stack Developer with a strong focus on building efficient and scalable APIs, developing modern and responsive user interfaces, and applying industry-standard best practices throughout the development process. Self-taught and highly motivated, actively contributes to open source projects and collaborates with developer communities. <br><br>
-<br><br>
-<br><br>
+
 
 
 
@@ -22,6 +21,8 @@ Full Stack Developer with a strong focus on building efficient and scalable APIs
 
 
 <div align="center">
+  
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Edu-2de&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
@@ -29,10 +30,10 @@ Full Stack Developer with a strong focus on building efficient and scalable APIs
   <img src="https://streak-stats.demolab.com?user=Edu-2de&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
 </div>
 
-
+<br>
 <div align="left">
   <h2>&nbsp;Stacks</h2>
-  
+
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin-top: 18px;">
     <img src="https://img.shields.io/badge/JavaScript-181920?style=for-the-badge&logo=javascript&logoColor=7CFC00" alt="JavaScript" />
     <img src="https://img.shields.io/badge/TypeScript-181920?style=for-the-badge&logo=typescript&logoColor=00FFB2" alt="TypeScript" />
