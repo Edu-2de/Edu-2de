@@ -35,9 +35,9 @@ Desenvolvedor Full Stack focado em APIs, interfaces modernas e boas práticas. A
     <img src="https://img.shields.io/badge/TypeScript-181920?style=for-the-badge&logo=typescript&logoColor=00FFB2" alt="TypeScript" />
     <img src="https://img.shields.io/badge/Python-181920?style=for-the-badge&logo=python&logoColor=00FFB2" alt="Python" />
     <img src="https://img.shields.io/badge/PHP-181920?style=for-the-badge&logo=php&logoColor=7CFC00" alt="PHP" />
-    <img src="https://img.shields.io/badge/Java-181920?style=for-the-badge&logo=java&logoColor=00FFB2" alt="Java" />
+    <img src="https://img.shields.io/badge/Java-181920?style=for-the-badge&logo=openjdk&logoColor=00FFB2" alt="Java" />
     <img src="https://img.shields.io/badge/C++-181920?style=for-the-badge&logo=c%2b%2b&logoColor=7CFC00" alt="C++" />
-    <img src="https://img.shields.io/badge/C%23-181920?style=for-the-badge&logo=c-sharp&logoColor=00FFB2" alt="C#" />
+    <img src="https://img.shields.io/badge/C%23-181920?style=for-the-badge&logo=dotnet&logoColor=00FFB2" alt="C#" />
     <img src="https://img.shields.io/badge/HTML5-181920?style=for-the-badge&logo=html5&logoColor=7CFC00" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-181920?style=for-the-badge&logo=css3&logoColor=00FFB2" alt="CSS3" />
     <img src="https://img.shields.io/badge/PostgreSQL-181920?style=for-the-badge&logo=postgresql&logoColor=7CFC00" alt="PostgreSQL" />
