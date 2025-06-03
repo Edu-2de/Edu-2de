@@ -49,7 +49,7 @@ Full Stack Developer with a strong focus on building efficient and scalable APIs
     <img src="https://img.shields.io/badge/MySQL-181920?style=for-the-badge&logo=mysql&logoColor=7CFC00" alt="MySQL" />
   </div>
 </div>
-<br><br>
+<br><br>  <br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edu-2de/Edu-2de/output/pacman-contribution-graph-dark.svg">
