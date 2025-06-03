@@ -27,7 +27,7 @@ Full Stack Developer with a strong focus on building efficient and scalable APIs
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=Edu-2de&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Edu-2de&theme=gotham" height="150" alt="streak graph"/>
 </div>
 
 <br>
