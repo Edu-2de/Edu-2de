@@ -1,5 +1,5 @@
 <br>
-<h1 align="left"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/br.svg" width="20" alt="Brasil flag" />  &nbsp;Eduardo Paim </h1>
+<h1 align="left">Eduardo Paim &nbsp;<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/br.svg" width="20" alt="Brasil flag" /></h1>
 
 
 
