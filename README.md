@@ -23,11 +23,11 @@ Full Stack Developer with a strong focus on building efficient and scalable APIs
 <div align="center">
   
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Edu-2de&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Edu-2de&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=Edu-2de&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Edu-2de&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
 </div>
 
 <br>
