@@ -9,8 +9,8 @@
 
 <p align="justify">
 
-Undergraduate student in Systems Analysis and Development (Senac RS).
-Full Stack Developer with a strong focus on building efficient and scalable APIs, developing modern and responsive user interfaces, and applying industry-standard best practices throughout the development process. <br><br><br><br><br><br>
+Undergraduate student in Systems Analysis and Development (Senac RS).<br>
+Full Stack Developer with a strong focus on building efficient and scalable APIs, developing modern and responsive user interfaces, and applying industry-standard best practices throughout the development process. <br><br><br><br><br>
 
 
 
