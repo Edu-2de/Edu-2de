@@ -8,9 +8,9 @@
 
 
 <p align="justify">
-Full Stack Developer | 19 anos <br><br>
-Graduando em Análise e Desenvolvimento de Sistemas (Senac RS)
-Desenvolvedor Full Stack focado em APIs, interfaces modernas e boas práticas. Autodidata, participa de projetos open source e busca constante evolução.<br><br>
+Full Stack Developer | 19 years old <br><br>
+Undergraduate student in Systems Analysis and Development (Senac RS).
+Full Stack Developer focused on building efficient APIs, modern user interfaces, and applying best development practices. Self-taught, actively contributes to open source projects and is constantly seeking professional growth and continuous learning<br><br>
 <br><br>
 <br><br>
 
