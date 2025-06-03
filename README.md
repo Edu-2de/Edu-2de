@@ -3,8 +3,8 @@
 
 
 
-<img align="right" height="230" src="https://images.steamusercontent.com/ugc/1920240577473879513/E78D69340BF22AE35D74395C361288ABEB4187A8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
-
+<p>Brasil <img align="right" height="230" src="https://images.steamusercontent.com/ugc/1920240577473879513/E78D69340BF22AE35D74395C361288ABEB4187A8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+<img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/br.svg" width="20" alt="Brasil flag" />
 
 
 <p align="justify">
