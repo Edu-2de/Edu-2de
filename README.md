@@ -8,7 +8,7 @@
 
 
 <p align="justify">
-Full Stack Developer | 19 years old <br><br>
+Full Stack Developer | 19 years old <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/br.svg" width="22" alt="Brazil flag" style="vertical-align: middle"/> <br><br>
 Undergraduate student in Systems Analysis and Development (Senac RS).
 Full Stack Developer with a strong focus on building efficient and scalable APIs, developing modern and responsive user interfaces, and applying industry-standard best practices throughout the development process. Self-taught and highly motivated, actively contributes to open source projects and collaborates with developer communities. <br><br>
 <br><br>
