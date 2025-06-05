@@ -29,7 +29,7 @@ I have experience with a variety of modern technologies and frameworks, includin
 <br>
 <div align="center">
   <h2 align="left">&nbsp;Stacks: </h2>
-  <br><br>
+  <br>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin-top: 18px;">
 
   <img src="https://img.shields.io/badge/JavaScript-181920?style=for-the-badge&logo=javascript&logoColor=7CFC00" alt="JavaScript" />
@@ -60,7 +60,7 @@ I have experience with a variety of modern technologies and frameworks, includin
   <img src="https://img.shields.io/badge/SpringBoot-181920?style=for-the-badge&logo=springboot&logoColor=00FFB2" alt="Spring Boot" />
   </div>
 </div>
-<br><br>  <br>
+<br><br> 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edu-2de/Edu-2de/output/pacman-contribution-graph-dark.svg">
