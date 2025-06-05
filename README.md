@@ -8,8 +8,27 @@
 
 <p align="justify">
 
+Undergraduate student in Systems Analysis and Development at Senac RS.<br>
+Full Stack Developer with a strong focus on building efficient and scalable APIs, developing modern and responsive user interfaces, and applying industry-standard best practices throughout the development process.<br><br>
+I have experience with a variety of modern technologies and frameworks, including JavaScript/TypeScript, React, Node.js, and relational/non-relational databases. My passion lies in creating solutions that are not only robust and high-performing, but also intuitive and user-friendly.<br><br>
 
+<h2 align="left">Stats: </h2>
+
+
+
+<div align="center">
+  
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Edu-2de&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="150" alt="stats graph"/> 
  
+
+
+  <img src="https://streak-stats.demolab.com?user=Edu-2de&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
+</div>
+
+<br>
+<div align="left">
+  <h2>&nbsp;Stacks: </h2>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin-top: 18px;">
 
@@ -41,32 +60,10 @@
   <img src="https://img.shields.io/badge/SpringBoot-181920?style=for-the-badge&logo=springboot&logoColor=00FFB2" alt="Spring Boot" />
   </div>
 </div>
+<br><br>  <br>
 
-<br><br><br>
-
-<h2 align="left">Stats: </h2>
-
-
-
-<div align="center">
-  
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Edu-2de&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="150" alt="stats graph"/> 
- 
-
-
-  <img src="https://streak-stats.demolab.com?user=Edu-2de&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
-</div>
-
-
-
-
- <h2> </h2>
 <picture>
-   <br>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edu-2de/Edu-2de/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edu-2de/Edu-2de/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Edu-2de/Edu-2de/output/pacman-contribution-graph.svg">
 </picture>
-
-
