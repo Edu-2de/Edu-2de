@@ -42,9 +42,13 @@ I have experience with a variety of modern technologies and frameworks, includin
   
   <br/>
   
+
   <img src="https://img.shields.io/badge/PostgreSQL-181920?style=for-the-badge&logo=postgresql&logoColor=7CFC00" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-181920?style=for-the-badge&logo=sqlite&logoColor=00FFB2" alt="SQLite" />
   <img src="https://img.shields.io/badge/MySQL-181920?style=for-the-badge&logo=mysql&logoColor=7CFC00" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-181920?style=for-the-badge&logo=mariadb&logoColor=00FFB2" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/Firebase-181920?style=for-the-badge&logo=firebase&logoColor=7CFC00" alt="Firebase" />
+
   
   <br/>
   
