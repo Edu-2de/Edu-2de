@@ -29,7 +29,7 @@ I have experience with a variety of modern technologies and frameworks, includin
 <br>
 <div align="center">
   <h2 align="left">&nbsp;Stacks: </h2>
-
+  <br><br>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin-top: 18px;">
 
   <img src="https://img.shields.io/badge/JavaScript-181920?style=for-the-badge&logo=javascript&logoColor=7CFC00" alt="JavaScript" />
