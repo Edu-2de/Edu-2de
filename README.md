@@ -27,7 +27,7 @@ I have experience with a variety of modern technologies and frameworks, includin
 </div>
 
 <br>
-<div align="left">
+<div align="center">
   <h2>&nbsp;Stacks: </h2>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin-top: 18px;">
