@@ -8,9 +8,7 @@
 
 <p align="justify">
 
-Undergraduate student in Systems Analysis and Development at Senac RS.<br>
-Full Stack Developer with a strong focus on building efficient and scalable APIs, developing modern and responsive user interfaces, and applying industry-standard best practices throughout the development process.
-<div align="left">
+
  
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin-top: 18px;">
@@ -44,7 +42,7 @@ Full Stack Developer with a strong focus on building efficient and scalable APIs
   </div>
 </div>
 
-<br><br>
+<br><br><br>
 
 <h2 align="left">Stats: </h2>
 
