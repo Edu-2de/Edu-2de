@@ -10,7 +10,7 @@
 
 Undergraduate student in Systems Analysis and Development at Senac RS.<br>
 Full Stack Developer with a strong focus on building efficient and scalable APIs, developing modern and responsive user interfaces, and applying industry-standard best practices throughout the development process.<br><br>
-I have experience with a variety of modern technologies and frameworks, including JavaScript/TypeScript, React, Node.js, and relational/non-relational databases. My passion lies in creating solutions that are not only robust and high-performing, but also intuitive and user-friendly.<br><br>
+I have experience with a variety of modern technologies and frameworks, including JavaScript/TypeScript, React, Node.js, and relational/non-relational databases. My passion lies in creating solutions that are not only robust and high-performing, but also intuitive and user-friendly<br><br>
 
 <h2 align="left">Stats: </h2>
 
