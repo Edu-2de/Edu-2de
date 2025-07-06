@@ -1,9 +1,9 @@
 
-<h1 align="left">Eduardo Paim</h1>
+<h1 align="left">Eduardo Paim!</h1>
 
 
 
-<img align="right" height="140" src="https://images.steamusercontent.com/ugc/1920240577473879513/E78D69340BF22AE35D74395C361288ABEB4187A8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+<img align="right" height="210" src="https://images.steamusercontent.com/ugc/1920240577473879513/E78D69340BF22AE35D74395C361288ABEB4187A8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 
 <p align="justify">
