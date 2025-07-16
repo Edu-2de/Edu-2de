@@ -12,31 +12,16 @@ Undergraduate student in Systems Analysis and Development at Senac RS.<br>
 Full Stack Developer with a strong focus on building efficient and scalable APIs, developing modern and responsive user interfaces, and applying industry-standard best practices throughout the development process.<br><br>
 I have experience with a variety of modern technologies and frameworks, including JavaScript/TypeScript, React, Node.js, and relational/non-relational databases. My passion lies in creating solutions that are not only robust and high-performing, but also intuitive and user-friendly.<br><br>
 
-<div align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=edupaim1712@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/eduardo-paim-a89685341/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/5551992009287" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
-  </a>
-</div>
-
 
 <h2 align="left">Stats: </h2>
 
 
 
 <div align="center">
-  
-
   <img src="https://github-readme-stats.vercel.app/api?username=Edu-2de&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=true&order=1" height="150" alt="stats graph"/> 
- 
-
-
-  <img src="https://streak-stats.demolab.com?user=Edu-2de&locale=en&mode=daily&theme=apprentice&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Edu-2de&locale=en&mode=daily&theme=apprentice&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  /><br><br>
+  
+  ![Achievements](https://github-profile-trophy.vercel.app/?username=Edu-2de&theme=apprentice)
 </div>
 
 
@@ -75,5 +60,20 @@ I have experience with a variety of modern technologies and frameworks, includin
 </div>
 <br><br> 
 
-![Achievements](https://github-profile-trophy.vercel.app/?username=Edu-2de&theme=apprentice)
+<br>
+<h2 align="left">&nbsp;Find me: </h2>
+<br>
+
+<div align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=edupaim1712@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/eduardo-paim-a89685341/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/5551992009287" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="whatsapp logo"  />
+  </a>
+</div>
+
 
