@@ -11,14 +11,16 @@
 Undergraduate student in Systems Analysis and Development at Senac RS.<br>
 Full Stack Developer with a strong focus on building efficient and scalable APIs, developing modern and responsive user interfaces, and applying industry-standard best practices throughout the development process.<br><br>
 I have experience with a variety of modern technologies and frameworks, including JavaScript/TypeScript, React, Node.js, and relational/non-relational databases. My passion lies in creating solutions that are not only robust and high-performing, but also intuitive and user-friendly.<br><br>
-<p align="left">
+
+<div align="left">
+  <a href="edupaim1712@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=262626&logoColor=dcdc98&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/eduardo-paim-a89685341/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-181920?style=for-the-badge&logo=linkedin&logoColor=ffffaf" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-  <a href="mailto:edupaim1712@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-181920?style=for-the-badge&logo=gmail&logoColor=ffffaf" alt="Email Badge"/>
-  </a>
-</p>
+</div>
+
 
 <h2 align="left">Stats: </h2>
 
