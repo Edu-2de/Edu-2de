@@ -22,7 +22,7 @@ I have experience with a variety of modern technologies and frameworks, includin
   <a href="edu_miap" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
-  <a href="[+55(51)992009287](https://wa.me/5551992009287)" target="_blank">
+  <a href="https://wa.me/5551992009287" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
   </a>
 </div>
