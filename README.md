@@ -19,11 +19,11 @@ I have experience with a variety of modern technologies and frameworks, includin
 <div align="center">
   
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Edu-2de&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="150" alt="stats graph"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Edu-2de&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=true&order=1" height="150" alt="stats graph"/> 
  
 
 
-  <img src="https://streak-stats.demolab.com?user=Edu-2de&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Edu-2de&locale=en&mode=daily&theme=apprentice&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
 </div>
 
 
