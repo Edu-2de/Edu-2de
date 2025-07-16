@@ -58,13 +58,11 @@ I have experience with a variety of modern technologies and frameworks, includin
   <img src="https://img.shields.io/badge/SpringBoot-181920?style=for-the-badge&logo=springboot&logoColor=dcdcdc" alt="Spring Boot" />
   </div>
 </div>
-<br><br> 
 
-<br>
 <h2 align="left">&nbsp;Find me: </h2>
 <br>
 
-<div align="left">
+<div align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=edupaim1712@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
   </a>
