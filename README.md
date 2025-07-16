@@ -61,3 +61,6 @@ I have experience with a variety of modern technologies and frameworks, includin
   </div>
 </div>
 <br><br> 
+
+![Achievements](https://github-profile-trophy.vercel.app/?username=Edu-2de&theme=apprentice)
+
