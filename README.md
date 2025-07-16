@@ -13,7 +13,7 @@ Full Stack Developer with a strong focus on building efficient and scalable APIs
 I have experience with a variety of modern technologies and frameworks, including JavaScript/TypeScript, React, Node.js, and relational/non-relational databases. My passion lies in creating solutions that are not only robust and high-performing, but also intuitive and user-friendly.<br><br>
 
 <div align="left">
-  <a href="edupaim1712@gmail.com" target="_blank">
+  <a href="mailto:edupaim1712@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/eduardo-paim-a89685341/" target="_blank">
