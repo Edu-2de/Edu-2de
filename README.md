@@ -45,14 +45,15 @@ console.log(summary);
 
 <div align="center">
 
-  <h2 align="left" style="width: 100%;">&nbsp;Stacks:</h2>
+  <h2 align="left" style="width: 100%;">Stacks:</h2>
   <br/>
 
 <table style="width: 100%; margin: 0 auto;">
 <tr>
   <td valign="top" style="padding: 0 20px;">
-    <h3>Languages</h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <h3 align="center" >Languages</h3>
+    <br>
+    <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/JavaScript-181920?style=for-the-badge&logo=javascript&logoColor=ffffaf" alt="JavaScript" />
     <img src="https://img.shields.io/badge/TypeScript-181920?style=for-the-badge&logo=typescript&logoColor=dcdcdc" alt="TypeScript" />
     <img src="https://img.shields.io/badge/Python-181920?style=for-the-badge&logo=python&logoColor=ffffaf" alt="Python" />
@@ -64,8 +65,9 @@ console.log(summary);
   </td>
 
    <td valign="top" style="padding: 0 20px;">
-    <h3>Databases</h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <h3 align="center" >Databases</h3>
+    <br>
+    <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/PostgreSQL-181920?style=for-the-badge&logo=postgresql&logoColor=dcdcdc" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/SQLite-181920?style=for-the-badge&logo=sqlite&logoColor=ffffaf" alt="SQLite" />
     <img src="https://img.shields.io/badge/MySQL-181920?style=for-the-badge&logo=mysql&logoColor=dcdcdc" alt="MySQL" />
@@ -75,8 +77,9 @@ console.log(summary);
   </td>
 
   <td valign="top" style="padding: 0 20px;">
-    <h3>Frameworks & Tools</h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <h3 align="center" >Frameworks & Tools</h3>
+    <br>
+    <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Next.js-181920?style=for-the-badge&logo=next.js&logoColor=ffffaf" alt="Next.js" />
     <img src="https://img.shields.io/badge/React-181920?style=for-the-badge&logo=react&logoColor=dcdcdc" alt="React" />
     <img src="https://img.shields.io/badge/Node.js-181920?style=for-the-badge&logo=node.js&logoColor=ffffaf" alt="Node.js" />
@@ -93,7 +96,7 @@ console.log(summary);
 
 
 
-<h2 align="left">&nbsp;Find me: </h2>
+<h2 align="left">Find me: </h2>
 <br>
 
 <div align="center">
