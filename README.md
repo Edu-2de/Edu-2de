@@ -2,11 +2,12 @@
 <h1 align="left">Eduardo Paim</h1>
 
 
+<table>
+  <tr>
+    <td>
 
-<img align="right" height="210" src="ef96b87fbd54e41b145dcaeb1d7cbf8b.gif"  />
-
-
-```js
+<pre>
+<code>
 // aboutme.js
 
 const name = "Eduardo Paim";
@@ -23,7 +24,15 @@ console.log(name);
 console.log(title);
 console.log(education);
 console.log(summary);
-```
+</code>
+</pre>
+
+</td>
+<td>
+  <img height="250" src="ef96b87fbd54e41b145dcaeb1d7cbf8b.gif" />
+</td>
+</tr>
+</table>
 
 <h2 align="left">Stats: </h2>
 
