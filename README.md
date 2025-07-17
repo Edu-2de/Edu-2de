@@ -6,12 +6,24 @@
 <img align="right" height="210" src="ef96b87fbd54e41b145dcaeb1d7cbf8b.gif"  />
 
 
-<p align="justify">
+```js
+// aboutme.js
 
-Undergraduate student in Systems Analysis and Development at Senac RS.<br>
-Full Stack Developer with a strong focus on building efficient and scalable APIs, developing modern and responsive user interfaces, and applying industry-standard best practices throughout the development process.<br><br>
-I have experience with a variety of modern technologies and frameworks, including JavaScript/TypeScript, React, Node.js, and relational/non-relational databases. My passion lies in creating solutions that are not only robust and high-performing, but also intuitive and user-friendly.<br><br>
+const name = "Eduardo Paim";
+const title = "Full Stack Developer";
+const education = "Student of Systems Analysis and Development at Senac RS";
 
+const summary = `
+I develop scalable APIs and modern, responsive user interfaces.
+My work emphasizes clean code, performance, and maintainability.
+I believe in building intuitive solutions that solve real-world problems.
+`;
+
+console.log(name);
+console.log(title);
+console.log(education);
+console.log(summary);
+```
 
 <h2 align="left">Stats: </h2>
 
