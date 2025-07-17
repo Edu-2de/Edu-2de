@@ -6,8 +6,7 @@
   <tr>
     <td>
 
-<pre>
-<code>
+```js
 // aboutme.js
 
 const name = "Eduardo Paim";
@@ -24,15 +23,10 @@ console.log(name);
 console.log(title);
 console.log(education);
 console.log(summary);
-</code>
-</pre>
-
-</td>
-<td>
-  <img height="250" src="ef96b87fbd54e41b145dcaeb1d7cbf8b.gif" />
-</td>
-</tr>
-</table>
+```
+</td> 
+<td> 
+<img height="250" src="ef96b87fbd54e41b145dcaeb1d7cbf8b.gif" /> </td> </tr> </table> 
 
 <h2 align="left">Stats: </h2>
 
