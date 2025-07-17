@@ -54,13 +54,13 @@ console.log(summary);
     <h3 align="center" >Languages</h3>
     <br>
     <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/JavaScript-181920?style=for-the-badge&logo=javascript&logoColor=ffffaf" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-181920?style=for-the-badge&logo=typescript&logoColor=dcdcdc" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Python-181920?style=for-the-badge&logo=python&logoColor=ffffaf" alt="Python" />
-    <img src="https://img.shields.io/badge/PHP-181920?style=for-the-badge&logo=php&logoColor=dcdcdc" alt="PHP" />
-    <img src="https://img.shields.io/badge/Java-181920?style=for-the-badge&logo=openjdk&logoColor=ffffaf" alt="Java" />
-    <img src="https://img.shields.io/badge/C++-181920?style=for-the-badge&logo=c%2b%2b&logoColor=dcdcdc" alt="C++" />
-    <img src="https://img.shields.io/badge/C%23-181920?style=for-the-badge&logo=dotnet&logoColor=ffffaf" alt="C#" />
+    <img src="https://img.shields.io/badge/JavaScript-262626?style=for-the-badge&logo=javascript&logoColor=ffffaf" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-262626?style=for-the-badge&logo=typescript&logoColor=ffffaf" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Python-262626?style=for-the-badge&logo=python&logoColor=ffffaf" alt="Python" />
+    <img src="https://img.shields.io/badge/PHP-262626?style=for-the-badge&logo=php&logoColor=ffffaf" alt="PHP" />
+    <img src="https://img.shields.io/badge/Java-262626?style=for-the-badge&logo=openjdk&logoColor=ffffaf" alt="Java" />
+    <img src="https://img.shields.io/badge/C++-262626?style=for-the-badge&logo=c%2b%2b&logoColor=ffffaf" alt="C++" />
+    <img src="https://img.shields.io/badge/C%23-262626?style=for-the-badge&logo=dotnet&logoColor=ffffaf" alt="C#" />
     </div>
   </td>
 
@@ -68,11 +68,11 @@ console.log(summary);
     <h3 align="center" >Databases</h3>
     <br>
     <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/PostgreSQL-181920?style=for-the-badge&logo=postgresql&logoColor=dcdcdc" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/SQLite-181920?style=for-the-badge&logo=sqlite&logoColor=ffffaf" alt="SQLite" />
-    <img src="https://img.shields.io/badge/MySQL-181920?style=for-the-badge&logo=mysql&logoColor=dcdcdc" alt="MySQL" />
-    <img src="https://img.shields.io/badge/MariaDB-181920?style=for-the-badge&logo=mariadb&logoColor=ffffaf" alt="MariaDB" />
-    <img src="https://img.shields.io/badge/Firebase-181920?style=for-the-badge&logo=firebase&logoColor=dcdcdc" alt="Firebase" />
+    <img src="https://img.shields.io/badge/PostgreSQL-262626?style=for-the-badge&logo=postgresql&logoColor=dcdcdc" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/SQLite-262626?style=for-the-badge&logo=sqlite&logoColor=dcdcdc" alt="SQLite" />
+    <img src="https://img.shields.io/badge/MySQL-262626?style=for-the-badge&logo=mysql&logoColor=dcdcdc" alt="MySQL" />
+    <img src="https://img.shields.io/badge/MariaDB-262626?style=for-the-badge&logo=mariadb&logoColor=dcdcdc" alt="MariaDB" />
+    <img src="https://img.shields.io/badge/Firebase-262626?style=for-the-badge&logo=firebase&logoColor=dcdcdc" alt="Firebase" />
     </div>
   </td>
 
@@ -80,12 +80,12 @@ console.log(summary);
     <h3 align="center" >Frameworks & Tools</h3>
     <br>
     <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/Next.js-181920?style=for-the-badge&logo=next.js&logoColor=ffffaf" alt="Next.js" />
-    <img src="https://img.shields.io/badge/React-181920?style=for-the-badge&logo=react&logoColor=dcdcdc" alt="React" />
-    <img src="https://img.shields.io/badge/Node.js-181920?style=for-the-badge&logo=node.js&logoColor=ffffaf" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Django-181920?style=for-the-badge&logo=django&logoColor=dcdcdc" alt="Django" />
-    <img src="https://img.shields.io/badge/FastAPI-181920?style=for-the-badge&logo=fastapi&logoColor=ffffaf" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/SpringBoot-181920?style=for-the-badge&logo=springboot&logoColor=dcdcdc" alt="Spring Boot" />
+    <img src="https://img.shields.io/badge/Next.js-262626?style=for-the-badge&logo=next.js&logoColor=ffffaf" alt="Next.js" />
+    <img src="https://img.shields.io/badge/React-262626?style=for-the-badge&logo=react&logoColor=ffffaf" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-262626?style=for-the-badge&logo=node.js&logoColor=ffffaf" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Django-262626?style=for-the-badge&logo=django&logoColor=ffffaf" alt="Django" />
+    <img src="https://img.shields.io/badge/FastAPI-262626?style=for-the-badge&logo=fastapi&logoColor=ffffaf" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/SpringBoot-262626?style=for-the-badge&logo=springboot&logoColor=ffffaf" alt="Spring Boot" />
     </div>
   </td>
 </tr>
