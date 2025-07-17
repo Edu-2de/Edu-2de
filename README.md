@@ -35,9 +35,11 @@ console.log(summary);
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Edu-2de&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=true&order=1" height="150" alt="stats graph"/> 
   <img src="https://streak-stats.demolab.com?user=Edu-2de&locale=en&mode=daily&theme=apprentice&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  /><br><br>
-  
-  ![Achievements](https://github-profile-trophy.vercel.app/?username=Edu-2de&theme=apprentice&title=MultiLanguage,Commits,Issues,PullRequest,Stars,Repositories,Followers,Experience)
 
+  <details>
+    <summary><strong>Show Achievements</strong></summary><br>
+    <img src="https://github-profile-trophy.vercel.app/?username=Edu-2de&theme=apprentice&title=MultiLanguage,Commits,Issues,PullRequest,Stars,Repositories,Followers,Experience" alt="Achievements" />
+  </details>
 </div>
 
 
