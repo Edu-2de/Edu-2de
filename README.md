@@ -20,6 +20,7 @@ I believe in building intuitive solutions that solve real-world problems.
 `;
 
 const quote = "Come as you are, as you were, as I want you to be.";
+
 ```
 </td> 
 <td> 
