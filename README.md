@@ -19,12 +19,10 @@ My work emphasizes clean code, performance, and maintainability.
 I believe in building intuitive solutions that solve real-world problems.
 `;
 
-const quote = "Come as you are, as you were, as I want you to be.";
-
 ```
 </td> 
 <td> 
-<img height="250" src="ef96b87fbd54e41b145dcaeb1d7cbf8b.gif" /> </td> </tr> </table> 
+<img height="250" src="a8816647914724fe17ede6028ef145af.600x600x100.gif" /> </td> </tr> </table> 
 
 <h2 align="left">Stats: </h2>
 
