@@ -106,8 +106,8 @@ I believe in building intuitive solutions that solve real-world problems.
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="whatsapp logo"  />
   </a>
   <details>
-    <summary><strong>Show Achievements</strong></summary><br>
-    <img src="https://github-profile-trophy.vercel.app/?username=Edu-2de&theme=apprentice&title=MultiLanguage,Commits,Issues,PullRequest,Stars,Repositories,Followers,Experience" alt="Achievements" />
+    <summary><strong>TIME</strong></summary><br>
+    <img src="" alt="Achievements" />
   </details>
   
 </div>
