@@ -107,8 +107,7 @@ I believe in building intuitive solutions that solve real-world problems.
   </a>
   <details>
     <summary><strong>TIME</strong></summary><br>
-    <div class="tenor-gif-embed" data-postid="14371892052062688913" data-share-method="host" data-aspect-ratio="1.80435" data-width="100%"><a href="https://tenor.com/view/gremio-gr%C3%AAmio-fbpa-gr%C3%AAmio-foot-ball-porto-alegrense-gr%C3%AAmio-gif-14371892052062688913">Gremio Grêmio Fbpa GIF</a>from <a href="https://tenor.com/search/gremio-gifs">Gremio GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-  </details>
+      <h1>Gremio</h1>
   
 </div>
 
