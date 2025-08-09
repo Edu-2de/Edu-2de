@@ -9,7 +9,7 @@
 ```js
 // aboutme.js
 
-const name = "Eduardo Paim";
+const name = "Eduardo_Paim";
 const title = "Full Stack Developer";
 const education = "Student of Systems Analysis and Development at Senac RS";
 
