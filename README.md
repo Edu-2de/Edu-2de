@@ -106,7 +106,7 @@ I believe in building intuitive solutions that solve real-world problems.
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="whatsapp logo"  />
   </a>
   <details>
-    <summary><strong>.</strong></summary><br>
+    <summary></summary><br>
       <h1>Gremio</h1>
   
 </div>
