@@ -57,6 +57,7 @@ I believe in building intuitive solutions that solve real-world problems.
     <img src="https://img.shields.io/badge/Java-262626?style=for-the-badge&logo=openjdk&logoColor=ffffaf" alt="Java" />
     <img src="https://img.shields.io/badge/C++-262626?style=for-the-badge&logo=c%2b%2b&logoColor=ffffaf" alt="C++" />
     <img src="https://img.shields.io/badge/C%23-262626?style=for-the-badge&logo=dotnet&logoColor=ffffaf" alt="C#" />
+    <img src="https://img.shields.io/badge/Dart-262626?style=for-the-badge&logo=dart&logoColor=ffffaf" alt="Dart" />
     </div>
   </td>
 
@@ -82,6 +83,7 @@ I believe in building intuitive solutions that solve real-world problems.
     <img src="https://img.shields.io/badge/Django-262626?style=for-the-badge&logo=django&logoColor=ffffaf" alt="Django" />
     <img src="https://img.shields.io/badge/FastAPI-262626?style=for-the-badge&logo=fastapi&logoColor=ffffaf" alt="FastAPI" />
     <img src="https://img.shields.io/badge/SpringBoot-262626?style=for-the-badge&logo=springboot&logoColor=ffffaf" alt="Spring Boot" />
+    <img src="https://img.shields.io/badge/Flutter-262626?style=for-the-badge&logo=flutter&logoColor=ffffaf" alt="Flutter" />
     </div>
   </td>
 </tr>
