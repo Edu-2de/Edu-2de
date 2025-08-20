@@ -109,7 +109,9 @@ I believe in building intuitive solutions that solve real-world problems.
   </a>
   <details>
     <summary></summary><br>
-      <h1>Gremio</h1>
+      <img height="250" src="beijando-a-mão-jogador-do-grêmio.gif" /> 
+
+      
   
 </div>
 
