@@ -46,44 +46,47 @@ I believe in building intuitive solutions that solve real-world problems.
 
 <table style="width: 100%; margin: 0 auto;">
 <tr>
+  <!-- Card 1: Languages (badges cinza médio) -->
   <td valign="top" style="padding: 0 20px;">
     <h3 align="center" >Languages</h3>
     <br>
-    <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=FF3C3C&labelColor=151515&color=151515" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=FF3C3C&labelColor=151515&color=151515" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=FF3C3C&labelColor=151515&color=151515" alt="Python" />
-      <img src="https://img.shields.io/badge/PHP-151515?style=for-the-badge&logo=php&logoColor=FF3C3C&labelColor=151515&color=151515" alt="PHP" />
-      <img src="https://img.shields.io/badge/Java-151515?style=for-the-badge&logo=openjdk&logoColor=FF3C3C&labelColor=151515&color=151515" alt="Java" />
-      <img src="https://img.shields.io/badge/C++-151515?style=for-the-badge&logo=c%2b%2b&logoColor=FF3C3C&labelColor=151515&color=151515" alt="C++" />
-      <img src="https://img.shields.io/badge/C%23-151515?style=for-the-badge&logo=dotnet&logoColor=FF3C3C&labelColor=151515&color=151515" alt="C#" />
-      <img src="https://img.shields.io/badge/Dart-151515?style=for-the-badge&logo=dart&logoColor=FF3C3C&labelColor=151515&color=151515" alt="Dart" />
+    <div align="center">
+      <img src="https://img.shields.io/badge/JavaScript-4b4b4b?style=for-the-badge&logo=javascript&logoColor=fff" alt="JavaScript" /><br>
+      <img src="https://img.shields.io/badge/TypeScript-4b4b4b?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" /><br>
+      <img src="https://img.shields.io/badge/Python-4b4b4b?style=for-the-badge&logo=python&logoColor=fff" alt="Python" /><br>
+      <img src="https://img.shields.io/badge/PHP-4b4b4b?style=for-the-badge&logo=php&logoColor=fff" alt="PHP" /><br>
+      <img src="https://img.shields.io/badge/Java-4b4b4b?style=for-the-badge&logo=openjdk&logoColor=fff" alt="Java" /><br>
+      <img src="https://img.shields.io/badge/C++-4b4b4b?style=for-the-badge&logo=c%2b%2b&logoColor=fff" alt="C++" /><br>
+      <img src="https://img.shields.io/badge/C%23-4b4b4b?style=for-the-badge&logo=dotnet&logoColor=fff" alt="C#" /><br>
+      <img src="https://img.shields.io/badge/Dart-4b4b4b?style=for-the-badge&logo=dart&logoColor=fff" alt="Dart" />
     </div>
   </td>
 
-   <td valign="top" style="padding: 0 20px;">
+  <!-- Card 2: Databases (badges cinza escuro) -->
+  <td valign="top" style="padding: 0 20px;">
     <h3 align="center" >Databases</h3>
     <br>
-    <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <img src="https://img.shields.io/badge/PostgreSQL-151515?style=for-the-badge&logo=postgresql&logoColor=FF3C3C&labelColor=151515&color=151515" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/SQLite-151515?style=for-the-badge&logo=sqlite&logoColor=FF3C3C&labelColor=151515&color=151515" alt="SQLite" />
-      <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=FF3C3C&labelColor=151515&color=151515" alt="MySQL" />
-      <img src="https://img.shields.io/badge/MariaDB-151515?style=for-the-badge&logo=mariadb&logoColor=FF3C3C&labelColor=151515&color=151515" alt="MariaDB" />
-      <img src="https://img.shields.io/badge/Firebase-151515?style=for-the-badge&logo=firebase&logoColor=FF3C3C&labelColor=151515&color=151515" alt="Firebase" />
+    <div align="center">
+      <img src="https://img.shields.io/badge/PostgreSQL-222?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL" /><br>
+      <img src="https://img.shields.io/badge/SQLite-222?style=for-the-badge&logo=sqlite&logoColor=fff" alt="SQLite" /><br>
+      <img src="https://img.shields.io/badge/MySQL-222?style=for-the-badge&logo=mysql&logoColor=fff" alt="MySQL" /><br>
+      <img src="https://img.shields.io/badge/MariaDB-222?style=for-the-badge&logo=mariadb&logoColor=fff" alt="MariaDB" /><br>
+      <img src="https://img.shields.io/badge/Firebase-222?style=for-the-badge&logo=firebase&logoColor=fff" alt="Firebase" />
     </div>
   </td>
 
+  <!-- Card 3: Frameworks & Tools (badges cinza médio) -->
   <td valign="top" style="padding: 0 20px;">
     <h3 align="center" >Frameworks & Tools</h3>
     <br>
-    <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <img src="https://img.shields.io/badge/Next.js-151515?style=for-the-badge&logo=next.js&logoColor=FF3C3C&labelColor=151515&color=151515" alt="Next.js" />
-      <img src="https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=FF3C3C&labelColor=151515&color=151515" alt="React" />
-      <img src="https://img.shields.io/badge/Node.js-151515?style=for-the-badge&logo=node.js&logoColor=FF3C3C&labelColor=151515&color=151515" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Django-151515?style=for-the-badge&logo=django&logoColor=FF3C3C&labelColor=151515&color=151515" alt="Django" />
-      <img src="https://img.shields.io/badge/FastAPI-151515?style=for-the-badge&logo=fastapi&logoColor=FF3C3C&labelColor=151515&color=151515" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/SpringBoot-151515?style=for-the-badge&logo=springboot&logoColor=FF3C3C&labelColor=151515&color=151515" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/Flutter-151515?style=for-the-badge&logo=flutter&logoColor=FF3C3C&labelColor=151515&color=151515" alt="Flutter" />
+    <div align="center">
+      <img src="https://img.shields.io/badge/Next.js-4b4b4b?style=for-the-badge&logo=next.js&logoColor=fff" alt="Next.js" /><br>
+      <img src="https://img.shields.io/badge/React-4b4b4b?style=for-the-badge&logo=react&logoColor=fff" alt="React" /><br>
+      <img src="https://img.shields.io/badge/Node.js-4b4b4b?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js" /><br>
+      <img src="https://img.shields.io/badge/Django-4b4b4b?style=for-the-badge&logo=django&logoColor=fff" alt="Django" /><br>
+      <img src="https://img.shields.io/badge/FastAPI-4b4b4b?style=for-the-badge&logo=fastapi&logoColor=fff" alt="FastAPI" /><br>
+      <img src="https://img.shields.io/badge/SpringBoot-4b4b4b?style=for-the-badge&logo=springboot&logoColor=fff" alt="Spring Boot" /><br>
+      <img src="https://img.shields.io/badge/Flutter-4b4b4b?style=for-the-badge&logo=flutter&logoColor=fff" alt="Flutter" />
     </div>
   </td>
 </tr>
