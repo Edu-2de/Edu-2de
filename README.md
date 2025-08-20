@@ -109,7 +109,7 @@ I believe in building intuitive solutions that solve real-world problems.
   </a>
   <details>
     <summary></summary><br>
-      <img height="250" src="beijando-a-mão-jogador-do-grêmio.gif" /> 
+      <img height="250" src="berserk-skeletons.gif" /> 
 
       
   
