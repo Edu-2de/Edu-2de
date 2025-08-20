@@ -50,14 +50,14 @@ I believe in building intuitive solutions that solve real-world problems.
     <h3 align="center" >Languages</h3>
     <br>
     <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/JavaScript-262626?style=for-the-badge&logo=javascript&logoColor=ffffaf" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-262626?style=for-the-badge&logo=typescript&logoColor=ffffaf" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Python-262626?style=for-the-badge&logo=python&logoColor=ffffaf" alt="Python" />
-    <img src="https://img.shields.io/badge/PHP-262626?style=for-the-badge&logo=php&logoColor=ffffaf" alt="PHP" />
-    <img src="https://img.shields.io/badge/Java-262626?style=for-the-badge&logo=openjdk&logoColor=ffffaf" alt="Java" />
-    <img src="https://img.shields.io/badge/C++-262626?style=for-the-badge&logo=c%2b%2b&logoColor=ffffaf" alt="C++" />
-    <img src="https://img.shields.io/badge/C%23-262626?style=for-the-badge&logo=dotnet&logoColor=ffffaf" alt="C#" />
-    <img src="https://img.shields.io/badge/Dart-262626?style=for-the-badge&logo=dart&logoColor=ffffaf" alt="Dart" />
+      <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=FF3C3C&labelColor=151515&color=151515" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=FF3C3C&labelColor=151515&color=151515" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=FF3C3C&labelColor=151515&color=151515" alt="Python" />
+      <img src="https://img.shields.io/badge/PHP-151515?style=for-the-badge&logo=php&logoColor=FF3C3C&labelColor=151515&color=151515" alt="PHP" />
+      <img src="https://img.shields.io/badge/Java-151515?style=for-the-badge&logo=openjdk&logoColor=FF3C3C&labelColor=151515&color=151515" alt="Java" />
+      <img src="https://img.shields.io/badge/C++-151515?style=for-the-badge&logo=c%2b%2b&logoColor=FF3C3C&labelColor=151515&color=151515" alt="C++" />
+      <img src="https://img.shields.io/badge/C%23-151515?style=for-the-badge&logo=dotnet&logoColor=FF3C3C&labelColor=151515&color=151515" alt="C#" />
+      <img src="https://img.shields.io/badge/Dart-151515?style=for-the-badge&logo=dart&logoColor=FF3C3C&labelColor=151515&color=151515" alt="Dart" />
     </div>
   </td>
 
@@ -65,11 +65,11 @@ I believe in building intuitive solutions that solve real-world problems.
     <h3 align="center" >Databases</h3>
     <br>
     <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/PostgreSQL-262626?style=for-the-badge&logo=postgresql&logoColor=dcdcdc" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/SQLite-262626?style=for-the-badge&logo=sqlite&logoColor=dcdcdc" alt="SQLite" />
-    <img src="https://img.shields.io/badge/MySQL-262626?style=for-the-badge&logo=mysql&logoColor=dcdcdc" alt="MySQL" />
-    <img src="https://img.shields.io/badge/MariaDB-262626?style=for-the-badge&logo=mariadb&logoColor=dcdcdc" alt="MariaDB" />
-    <img src="https://img.shields.io/badge/Firebase-262626?style=for-the-badge&logo=firebase&logoColor=dcdcdc" alt="Firebase" />
+      <img src="https://img.shields.io/badge/PostgreSQL-151515?style=for-the-badge&logo=postgresql&logoColor=FF3C3C&labelColor=151515&color=151515" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/SQLite-151515?style=for-the-badge&logo=sqlite&logoColor=FF3C3C&labelColor=151515&color=151515" alt="SQLite" />
+      <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=FF3C3C&labelColor=151515&color=151515" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MariaDB-151515?style=for-the-badge&logo=mariadb&logoColor=FF3C3C&labelColor=151515&color=151515" alt="MariaDB" />
+      <img src="https://img.shields.io/badge/Firebase-151515?style=for-the-badge&logo=firebase&logoColor=FF3C3C&labelColor=151515&color=151515" alt="Firebase" />
     </div>
   </td>
 
@@ -77,13 +77,13 @@ I believe in building intuitive solutions that solve real-world problems.
     <h3 align="center" >Frameworks & Tools</h3>
     <br>
     <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/Next.js-262626?style=for-the-badge&logo=next.js&logoColor=ffffaf" alt="Next.js" />
-    <img src="https://img.shields.io/badge/React-262626?style=for-the-badge&logo=react&logoColor=ffffaf" alt="React" />
-    <img src="https://img.shields.io/badge/Node.js-262626?style=for-the-badge&logo=node.js&logoColor=ffffaf" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Django-262626?style=for-the-badge&logo=django&logoColor=ffffaf" alt="Django" />
-    <img src="https://img.shields.io/badge/FastAPI-262626?style=for-the-badge&logo=fastapi&logoColor=ffffaf" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/SpringBoot-262626?style=for-the-badge&logo=springboot&logoColor=ffffaf" alt="Spring Boot" />
-    <img src="https://img.shields.io/badge/Flutter-262626?style=for-the-badge&logo=flutter&logoColor=ffffaf" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Next.js-151515?style=for-the-badge&logo=next.js&logoColor=FF3C3C&labelColor=151515&color=151515" alt="Next.js" />
+      <img src="https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=FF3C3C&labelColor=151515&color=151515" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-151515?style=for-the-badge&logo=node.js&logoColor=FF3C3C&labelColor=151515&color=151515" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Django-151515?style=for-the-badge&logo=django&logoColor=FF3C3C&labelColor=151515&color=151515" alt="Django" />
+      <img src="https://img.shields.io/badge/FastAPI-151515?style=for-the-badge&logo=fastapi&logoColor=FF3C3C&labelColor=151515&color=151515" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/SpringBoot-151515?style=for-the-badge&logo=springboot&logoColor=FF3C3C&labelColor=151515&color=151515" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Flutter-151515?style=for-the-badge&logo=flutter&logoColor=FF3C3C&labelColor=151515&color=151515" alt="Flutter" />
     </div>
   </td>
 </tr>
