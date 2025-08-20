@@ -22,19 +22,19 @@ I believe in building intuitive solutions that solve real-world problems.
 ```
 </td> 
 <td> 
-<img height="250" src="ef96b87fbd54e41b145dcaeb1d7cbf8b.gif" /> </td> </tr> </table> 
+<img height="250" src="berserk-guts-red.gif" /> </td> </tr> </table> 
 
 <h2 align="left">Stats: </h2>
 
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edu-2de&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=true&order=1" height="150" alt="stats graph"/> 
-  <img src="https://streak-stats.demolab.com?user=Edu-2de&locale=en&mode=daily&theme=apprentice&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Edu-2de&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&bg_color=151515&title_color=ff3c3c&text_color=ffffff&icon_color=ff3c3c&order=1" height="150" alt="stats graph"/> 
+  <img src="https://streak-stats.demolab.com?user=Edu-2de&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=10&background=151515&ring=ff3c3c&fire=ff3c3c&currStreakNum=ffffff&currStreakLabel=ff3c3c&sideNums=ffffff&sideLabels=ff3c3c&dates=ffffff&order=3" height="150" alt="streak graph"  /><br><br>
 
   <details>
     <summary><strong>Show Achievements</strong></summary><br>
-    <img src="https://github-profile-trophy.vercel.app/?username=Edu-2de&theme=apprentice&title=MultiLanguage,Commits,Issues,PullRequest,Stars,Repositories,Followers,Experience" alt="Achievements" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Edu-2de&theme=dark&title=MultiLanguage,Commits,Issues,PullRequest,Stars,Repositories,Followers,Experience&no-bg=true&margin-w=10&margin-h=15&title_color=ff3c3c" alt="Achievements" />
   </details>
 </div>
 
