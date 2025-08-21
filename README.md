@@ -47,7 +47,7 @@ I believe in building intuitive solutions that solve real-world problems.
   <!-- Achievements (Expandable) -->
   <details>
     <summary><strong>Show Achievements</strong></summary><br>
-    <img src="https://github-profile-trophy.vercel.app/?username=Edu-2de&theme=dark_lover&title=MultiLanguage,Commits,Issues,PullRequest,Stars,Repositories,Followers,Experience&no-bg=true&margin-w=10&margin-h=15&title_color=ff3c3c" alt="Achievements" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Edu-2de&no-frame=true&theme=dark_lover&title=MultiLanguage,Commits,Issues,PullRequest,Stars,Repositories,Followers,Experience&no-bg=true&margin-w=10&margin-h=15&title_color=ff3c3c" alt="Achievements" />
   </details>
 </div>
 
