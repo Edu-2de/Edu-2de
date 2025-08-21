@@ -44,52 +44,41 @@ I believe in building intuitive solutions that solve real-world problems.
   <h2 align="left" style="width: 100%;">Stacks:</h2>
   <br/>
 
-<table style="width: 100%; margin: 0 auto;">
-<tr>
-  <!-- Card 1: Languages (badges cinza médio) -->
-  <td valign="top" style="padding: 0 20px;">
-    <h3 align="center" >Languages</h3>
-    <br>
-    <div align="center">
-      <img src="https://img.shields.io/badge/JavaScript-4b4b4b?style=for-the-badge&logo=javascript&logoColor=fff" alt="JavaScript" /><br>
-      <img src="https://img.shields.io/badge/TypeScript-4b4b4b?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" /><br>
-      <img src="https://img.shields.io/badge/Python-4b4b4b?style=for-the-badge&logo=python&logoColor=fff" alt="Python" /><br>
-      <img src="https://img.shields.io/badge/PHP-4b4b4b?style=for-the-badge&logo=php&logoColor=fff" alt="PHP" /><br>
-      <img src="https://img.shields.io/badge/Java-4b4b4b?style=for-the-badge&logo=openjdk&logoColor=fff" alt="Java" /><br>
-      <img src="https://img.shields.io/badge/C++-4b4b4b?style=for-the-badge&logo=c%2b%2b&logoColor=fff" alt="C++" /><br>
-      <img src="https://img.shields.io/badge/C%23-4b4b4b?style=for-the-badge&logo=dotnet&logoColor=fff" alt="C#" /><br>
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <h3>Languages</h3>
+      <br>
+      <img src="https://img.shields.io/badge/JavaScript-4b4b4b?style=for-the-badge&logo=javascript&logoColor=fff" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-4b4b4b?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Python-4b4b4b?style=for-the-badge&logo=python&logoColor=fff" alt="Python" />
+      <img src="https://img.shields.io/badge/PHP-4b4b4b?style=for-the-badge&logo=php&logoColor=fff" alt="PHP" />
+      <img src="https://img.shields.io/badge/Java-4b4b4b?style=for-the-badge&logo=openjdk&logoColor=fff" alt="Java" />
+      <img src="https://img.shields.io/badge/C++-4b4b4b?style=for-the-badge&logo=c%2b%2b&logoColor=fff" alt="C++" />
+      <img src="https://img.shields.io/badge/C%23-4b4b4b?style=for-the-badge&logo=dotnet&logoColor=fff" alt="C#" />
       <img src="https://img.shields.io/badge/Dart-4b4b4b?style=for-the-badge&logo=dart&logoColor=fff" alt="Dart" />
-    </div>
-  </td>
-
-  <!-- Card 2: Databases (badges cinza escuro) -->
-  <td valign="top" style="padding: 0 20px;">
-    <h3 align="center" >Databases</h3>
-    <br>
-    <div align="center">
-      <img src="https://img.shields.io/badge/PostgreSQL-222?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL" /><br>
-      <img src="https://img.shields.io/badge/SQLite-222?style=for-the-badge&logo=sqlite&logoColor=fff" alt="SQLite" /><br>
-      <img src="https://img.shields.io/badge/MySQL-222?style=for-the-badge&logo=mysql&logoColor=fff" alt="MySQL" /><br>
-      <img src="https://img.shields.io/badge/MariaDB-222?style=for-the-badge&logo=mariadb&logoColor=fff" alt="MariaDB" /><br>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>Databases</h3>
+      <br>
+      <img src="https://img.shields.io/badge/PostgreSQL-222?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/SQLite-222?style=for-the-badge&logo=sqlite&logoColor=fff" alt="SQLite" />
+      <img src="https://img.shields.io/badge/MySQL-222?style=for-the-badge&logo=mysql&logoColor=fff" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MariaDB-222?style=for-the-badge&logo=mariadb&logoColor=fff" alt="MariaDB" />
       <img src="https://img.shields.io/badge/Firebase-222?style=for-the-badge&logo=firebase&logoColor=fff" alt="Firebase" />
-    </div>
-  </td>
-
-  <!-- Card 3: Frameworks & Tools (badges cinza médio) -->
-  <td valign="top" style="padding: 0 20px;">
-    <h3 align="center" >Frameworks & Tools</h3>
-    <br>
-    <div align="center">
-      <img src="https://img.shields.io/badge/Next.js-4b4b4b?style=for-the-badge&logo=next.js&logoColor=fff" alt="Next.js" /><br>
-      <img src="https://img.shields.io/badge/React-4b4b4b?style=for-the-badge&logo=react&logoColor=fff" alt="React" /><br>
-      <img src="https://img.shields.io/badge/Node.js-4b4b4b?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js" /><br>
-      <img src="https://img.shields.io/badge/Django-4b4b4b?style=for-the-badge&logo=django&logoColor=fff" alt="Django" /><br>
-      <img src="https://img.shields.io/badge/FastAPI-4b4b4b?style=for-the-badge&logo=fastapi&logoColor=fff" alt="FastAPI" /><br>
-      <img src="https://img.shields.io/badge/SpringBoot-4b4b4b?style=for-the-badge&logo=springboot&logoColor=fff" alt="Spring Boot" /><br>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>Frameworks & Tools</h3>
+      <br>
+      <img src="https://img.shields.io/badge/Next.js-4b4b4b?style=for-the-badge&logo=next.js&logoColor=fff" alt="Next.js" />
+      <img src="https://img.shields.io/badge/React-4b4b4b?style=for-the-badge&logo=react&logoColor=fff" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-4b4b4b?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Django-4b4b4b?style=for-the-badge&logo=django&logoColor=fff" alt="Django" />
+      <img src="https://img.shields.io/badge/FastAPI-4b4b4b?style=for-the-badge&logo=fastapi&logoColor=fff" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/SpringBoot-4b4b4b?style=for-the-badge&logo=springboot&logoColor=fff" alt="Spring Boot" />
       <img src="https://img.shields.io/badge/Flutter-4b4b4b?style=for-the-badge&logo=flutter&logoColor=fff" alt="Flutter" />
-    </div>
-  </td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 </div>
