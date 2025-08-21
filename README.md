@@ -89,20 +89,30 @@ I believe in building intuitive solutions that solve real-world problems.
 <h2 align="left">Find me: </h2>
 <br>
 
+
 <div align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=edupaim1712@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
+
+  <!-- Contact Badges -->
+  <a href="mailto:edupaim1712@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" alt="gmail" />
   </a>
   <a href="https://www.linkedin.com/in/eduardo-paim-a89685341/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="linkedin" />
   </a>
   <a href="https://wa.me/5551992009287" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" alt="whatsapp" />
   </a>
-  <details>
-    <summary></summary><br>
-      <img height="250" src="berserk-skeletons.gif" /> 
+</div>
 
+<div align="center">
+
+  <details>
+    <summary><b>💀</b></summary>
+    <br>
+    <img src="berserk-skeletons.gif" height="180" alt="berserk skeletons gif" />
+  </details>
+
+</div>
       
   
 </div>
