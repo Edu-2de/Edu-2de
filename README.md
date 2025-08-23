@@ -1,6 +1,6 @@
 <!--
 ========================
-Eduardo Paim README (Dark Mode)
+Eduardo Paim README 
 ========================
 -->
 
