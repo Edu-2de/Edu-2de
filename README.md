@@ -13,7 +13,7 @@ Eduardo Paim README
 ```js
 // aboutme.js
 
-const name = "Eduardo_Paim";
+const name = "Eduardo Paim";
 const title = "Full Stack Developer";
 const education = "Student of Systems Analysis and Development at Senac RS";
 
