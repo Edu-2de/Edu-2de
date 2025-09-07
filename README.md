@@ -1,6 +1,3 @@
-<!--
-
-<!--test#]-->
 <!-- About Me Section -->
 <table>
   <tr>
@@ -125,4 +122,3 @@ I believe in building intuitive solutions that solve real-world problems.
   </details>
 </div>
 
-<!-- End README -->
