@@ -93,6 +93,7 @@ I believe in building intuitive solutions that solve real-world problems.
         <img src="https://img.shields.io/badge/Django-4b4b4b?style=for-the-badge&logo=django&logoColor=fff" alt="Django" />
         <img src="https://img.shields.io/badge/FastAPI-4b4b4b?style=for-the-badge&logo=fastapi&logoColor=fff" alt="FastAPI" />
         <img src="https://img.shields.io/badge/SpringBoot-4b4b4b?style=for-the-badge&logo=springboot&logoColor=fff" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/.NET-4b4b4b?style=for-the-badge&logo=dotnet&logoColor=fff" alt=".NET" />
         <img src="https://img.shields.io/badge/Flutter-4b4b4b?style=for-the-badge&logo=flutter&logoColor=fff" alt="Flutter" />
       </td>
     </tr>
