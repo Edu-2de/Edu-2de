@@ -80,6 +80,7 @@ I believe in building intuitive solutions that solve real-world problems.
         <img src="https://img.shields.io/badge/MariaDB-222?style=for-the-badge&logo=mariadb&logoColor=fff" alt="MariaDB" />
         <img src="https://img.shields.io/badge/Firebase-222?style=for-the-badge&logo=firebase&logoColor=fff" alt="Firebase" />
         <img src="https://img.shields.io/badge/MSSQL-222?style=for-the-badge&logo=microsoft-sql-server&logoColor=fff" alt="Microsoft SQL Server" />
+        <img src="https://img.shields.io/badge/Oracle-222?style=for-the-badge&logo=oracle&logoColor=fff" alt="Oracle" />
       </td>
       <!-- Frameworks & Tools Card -->
       <td align="center" valign="top" width="33%">
