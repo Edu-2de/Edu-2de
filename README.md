@@ -1,13 +1,10 @@
 <!-- About Me Section -->
 <!-- Make other versions here on comment-->
-<!-- Hollow knight version -->
-<!-- Elden ring version -->
-<!-- Gremio versino -->
+
 <table>
   <tr>
     <td>
-<!-- Simulated JS "About Me" File -->
-  
+      
 ```js
 // aboutme.js
 
