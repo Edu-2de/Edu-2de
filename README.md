@@ -100,7 +100,7 @@ I believe in building intuitive solutions that solve real-world problems.
 ---
 
 <!-- Contact Section -->
-<h2 align="left">Find me:</h2>
+<h2 align="left">Contact me:</h2>
 <br>
 
 <div align="center">
