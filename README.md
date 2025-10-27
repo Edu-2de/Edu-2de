@@ -108,21 +108,19 @@ I believe in building intuitive solutions that solve real-world problems.
 <table align="center">
   <tr>
     <!-- GIF à esquerda -->
-    <td align="center" style="vertical-align: middle;">
+    <td align="center" style="vertical-align: middle; padding-right: 40px;">
       <img height="250" src="icegif-892.gif" alt="rest in peace" />
     </td>
-    <!-- Badges à direita (um abaixo do outro) -->
+    <!-- Badges à direita (um ao lado do outro, com cores originais) -->
     <td align="center" style="vertical-align: middle;">
       <a href="mailto:edupaim1712@gmail.com" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=5f6368&logoColor=ffffff&style=for-the-badge" alt="gmail" />
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=ffffff&style=for-the-badge" alt="gmail" />
       </a>
-      <br><br>
       <a href="https://www.linkedin.com/in/eduardo-paim-a89685341/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=5f6368&logoColor=ffffff&style=for-the-badge" alt="linkedin" />
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=ffffff&style=for-the-badge" alt="linkedin" />
       </a>
-      <br><br>
       <a href="https://wa.me/5551992009287" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=5f6368&logoColor=ffffff&style=for-the-badge" alt="whatsapp" />
+        <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=ffffff&style=for-the-badge" alt="whatsapp" />
       </a>
     </td>
   </tr>
