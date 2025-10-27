@@ -22,7 +22,7 @@ I believe in building intuitive solutions that solve real-world problems.
   </td>
     <td>
       <!-- Berserk GIF -->
-      <img height="250" src="ttNA5p1.gif" alt="gif-first" />
+      <img height="250" src="210050.gif" alt="gif-first" />
     </td>
   </tr>
 </table>
