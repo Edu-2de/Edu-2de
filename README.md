@@ -36,8 +36,6 @@ I believe in building intuitive solutions that solve real-world problems.
 
   <!-- GitHub Stats Cards (mantive as-is, já usam tema escuro) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Edu-2de&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&bg_color=0d1117&title_color=5f6368&text_color=ffffff&icon_color=5f6368&order=1" height="150" alt="stats graph"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Edu-2de&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&bg_color=0d1117&title_color=ff3c3c&text_color=ffffff&icon_color=ff3c3c&order=2" height="150" alt="languages graph" />
 
 
   <!-- Achievements (Expandable) -->
