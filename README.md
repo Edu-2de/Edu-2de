@@ -118,11 +118,7 @@ I believe in building intuitive solutions that solve real-world problems.
   </a>
 </div>
 
-<!-- Berserk Skeletons GIF, expandable -->
 <div align="center">
-  <details>
-    <summary><b>💀</b></summary>
-    <br>
-    <img src="berserk-skeletons.gif" height="180" alt="berserk skeletons gif" />
-  </details>
+  <img height="250" src="icegif-892.gif" alt="rest in peace" />
+
 </div>
