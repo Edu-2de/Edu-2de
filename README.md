@@ -109,7 +109,7 @@ I believe in building intuitive solutions that solve real-world problems.
   <tr>
     <!-- GIF à esquerda -->
     <td align="center" style="vertical-align: middle; padding-right: 40px;">
-      <img height="250" src="icegif-892.gif" alt="rest in peace" />
+      <img height="250" src="UdNg.gif" alt="gess" />
     </td>
     <!-- Badges à direita (um ao lado do outro, com cores originais) -->
     <td align="center" style="vertical-align: middle;">
