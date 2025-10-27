@@ -61,39 +61,39 @@ I believe in building intuitive solutions that solve real-world problems.
       <td align="center" valign="top" width="33%">
         <h3>Languages</h3>
         <br>
-        <img src="https://img.shields.io/badge/JavaScript-5f6368?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/TypeScript-5f6368?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Python-5f6368?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
-        <img src="https://img.shields.io/badge/PHP-5f6368?style=for-the-badge&logo=php&logoColor=ffffff" alt="PHP" />
-        <img src="https://img.shields.io/badge/Java-5f6368?style=for-the-badge&logo=openjdk&logoColor=ffffff" alt="Java" />
-        <img src="https://img.shields.io/badge/C++-5f6368?style=for-the-badge&logo=c%2b%2b&logoColor=ffffff" alt="C++" />
-        <img src="https://img.shields.io/badge/C%23-5f6368?style=for-the-badge&logo=dotnet&logoColor=ffffff" alt="C#" />
-        <img src="https://img.shields.io/badge/Dart-5f6368?style=for-the-badge&logo=dart&logoColor=ffffff" alt="Dart" />
+        <img src="https://img.shields.io/badge/JavaScript-242628?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/TypeScript-242628?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Python-242628?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
+        <img src="https://img.shields.io/badge/PHP-242628?style=for-the-badge&logo=php&logoColor=ffffff" alt="PHP" />
+        <img src="https://img.shields.io/badge/Java-242628?style=for-the-badge&logo=openjdk&logoColor=ffffff" alt="Java" />
+        <img src="https://img.shields.io/badge/C++-242628?style=for-the-badge&logo=c%2b%2b&logoColor=ffffff" alt="C++" />
+        <img src="https://img.shields.io/badge/C%23-242628?style=for-the-badge&logo=dotnet&logoColor=ffffff" alt="C#" />
+        <img src="https://img.shields.io/badge/Dart-242628?style=for-the-badge&logo=dart&logoColor=ffffff" alt="Dart" />
       </td>
       <!-- Databases Card -->
       <td align="center" valign="top" width="33%">
         <h3>Databases</h3>
         <br>
-        <img src="https://img.shields.io/badge/PostgreSQL-5f6368?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/SQLite-5f6368?style=for-the-badge&logo=sqlite&logoColor=ffffff" alt="SQLite" />
-        <img src="https://img.shields.io/badge/MySQL-5f6368?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="MySQL" />
-        <img src="https://img.shields.io/badge/MariaDB-5f6368?style=for-the-badge&logo=mariadb&logoColor=ffffff" alt="MariaDB" />
-        <img src="https://img.shields.io/badge/Firebase-5f6368?style=for-the-badge&logo=firebase&logoColor=ffffff" alt="Firebase" />
-        <img src="https://img.shields.io/badge/MSSQL-5f6368?style=for-the-badge&logo=microsoft-sql-server&logoColor=ffffff" alt="Microsoft SQL Server" />
-        <img src="https://img.shields.io/badge/Oracle-5f6368?style=for-the-badge&logo=oracle&logoColor=ffffff" alt="Oracle" />
+        <img src="https://img.shields.io/badge/PostgreSQL-242628?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/SQLite-242628?style=for-the-badge&logo=sqlite&logoColor=ffffff" alt="SQLite" />
+        <img src="https://img.shields.io/badge/MySQL-242628?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="MySQL" />
+        <img src="https://img.shields.io/badge/MariaDB-242628?style=for-the-badge&logo=mariadb&logoColor=ffffff" alt="MariaDB" />
+        <img src="https://img.shields.io/badge/Firebase-242628?style=for-the-badge&logo=firebase&logoColor=ffffff" alt="Firebase" />
+        <img src="https://img.shields.io/badge/MSSQL-242628?style=for-the-badge&logo=microsoft-sql-server&logoColor=ffffff" alt="Microsoft SQL Server" />
+        <img src="https://img.shields.io/badge/Oracle-242628?style=for-the-badge&logo=oracle&logoColor=ffffff" alt="Oracle" />
       </td>
       <!-- Frameworks & Tools Card -->
       <td align="center" valign="top" width="33%">
         <h3>Frameworks & Tools</h3>
         <br>
-        <img src="https://img.shields.io/badge/Next.js-5f6368?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="Next.js" />
-        <img src="https://img.shields.io/badge/React-5f6368?style=for-the-badge&logo=react&logoColor=ffffff" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-5f6368?style=for-the-badge&logo=node.js&logoColor=ffffff" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Django-5f6368?style=for-the-badge&logo=django&logoColor=ffffff" alt="Django" />
-        <img src="https://img.shields.io/badge/FastAPI-5f6368?style=for-the-badge&logo=fastapi&logoColor=ffffff" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/SpringBoot-5f6368?style=for-the-badge&logo=springboot&logoColor=ffffff" alt="Spring Boot" />
-        <img src="https://img.shields.io/badge/.NET-5f6368?style=for-the-badge&logo=dotnet&logoColor=ffffff" alt=".NET" />
-        <img src="https://img.shields.io/badge/Flutter-5f6368?style=for-the-badge&logo=flutter&logoColor=ffffff" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Next.js-242628?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-242628?style=for-the-badge&logo=react&logoColor=ffffff" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-242628?style=for-the-badge&logo=node.js&logoColor=ffffff" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Django-242628?style=for-the-badge&logo=django&logoColor=ffffff" alt="Django" />
+        <img src="https://img.shields.io/badge/FastAPI-242628?style=for-the-badge&logo=fastapi&logoColor=ffffff" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/SpringBoot-242628?style=for-the-badge&logo=springboot&logoColor=ffffff" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/.NET-242628?style=for-the-badge&logo=dotnet&logoColor=ffffff" alt=".NET" />
+        <img src="https://img.shields.io/badge/Flutter-242628?style=for-the-badge&logo=flutter&logoColor=ffffff" alt="Flutter" />
       </td>
     </tr>
   </table>
