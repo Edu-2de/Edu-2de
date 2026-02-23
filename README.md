@@ -48,17 +48,7 @@ meu foco é transformar problemas difíceis em soluções escaláveis e de fáci
 
 <br>
 
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777BB4)
-![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20)
-![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=9B4F96)
-![.NET](https://img.shields.io/badge/.NET-0d1117?style=flat-square&logo=dotnet&logoColor=512BD4)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=092E20)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+<img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,py,django,js,ts,nodejs,vue,nextjs&theme=dark&perline=6" />
 
 <br>
 
