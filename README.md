@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="ezgif-307f7c434e90bec5.gif" width="100%" alt="Banner" />
-</div>
-
-<br>
-
-<div align="center">
 
 ```
 E D U A R D O   P A I M
@@ -12,6 +6,10 @@ E D U A R D O   P A I M
 
 **Desenvolvedor de Software**
 
+</div>
+
+<div align="center">
+  <img src="e266138bb630631635e4733cd5a5e6f5.gif" width="100%" alt="Banner" />
 </div>
 
 <br>
