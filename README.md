@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ezgif-3de335e7f86a4b95.gif" width="100%" alt="Banner" />
+  <img src="ezgif-6a080b6011df05c4.gif" width="100%" alt="Banner" />
 </div>
 
 <br>
