@@ -5,7 +5,7 @@
   <p><code>software developer</code></p>
 </div>
 
-<br><br>
+<br>
 
 ## Sobre
 Construindo arquiteturas resilientes e experiências web fluidas. Do gerenciamento de estado no front-end à lógica de negócios complexa no back-end, meu foco é transformar problemas difíceis em soluções tecnológicas escaláveis e de fácil manutenção.
