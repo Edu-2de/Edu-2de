@@ -34,7 +34,7 @@ meu foco é transformar problemas difíceis em soluções escaláveis e de fáci
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=laravel,dotnet,django,nodejs,vue,nextjs&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=laravel,dotnet,django,nodejs,vue,nextjs,react&theme=dark&perline=6" />
 
 <br>
 
