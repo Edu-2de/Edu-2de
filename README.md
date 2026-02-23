@@ -3,7 +3,6 @@
 </div>
 
 <br>
-<br>
 
 <div align="center">
 
@@ -15,19 +14,6 @@ E D U A R D O   P A I M
 
 </div>
 
-<br>
-
-<div align="center">
-  <a href="LINK_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=000000" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/Contato-ffffff?style=flat-square&logo=gmail&logoColor=000000" />
-  </a>
-</div>
-
-<br>
 <br>
 
 ---
@@ -131,6 +117,18 @@ ATUALMENTE
 
 <div align="center">
   <sub>Aberto a problemas interessantes. Vamos construir algo sólido.</sub>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="LINK_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=000000" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Contato-ffffff?style=flat-square&logo=gmail&logoColor=000000" />
+  </a>
 </div>
 
 <br>
