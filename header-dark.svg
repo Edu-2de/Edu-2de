@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="100%">
+  <defs>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A1A1A6" />
+      <stop offset="100%" stop-color="#86868B" />
+    </linearGradient>
+
+    <style>
+      .title {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        font-size: 52px;
+        font-weight: 800;
+        letter-spacing: -1.5px;
+        fill: #F5F5F7; /* Branco suave padrão Apple Dark Mode */
+      }
+      .subtitle {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        font-size: 22px;
+        font-weight: 500;
+        letter-spacing: -0.5px;
+        fill: url(#textGradient);
+      }
+      
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(8px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      .animated {
+        animation: fadeIn 1.2s cubic-bezier(0.25, 1, 0.5, 1) forwards;
+      }
+    </style>
+  </defs>
+
+  <g class="animated">
+    <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" class="title">Engineering robust solutions.</text>
+    <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" class="subtitle">Architecture, Backend & Modern Interfaces.</text>
+  </g>
+</svg>
