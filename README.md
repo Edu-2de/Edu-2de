@@ -1,6 +1,6 @@
-<!--<div align="center">
-  <img src="ezgif-6a080b6011df05c4.gif" width="100%" alt="Banner" />
-</div>-->
+<div align="center">
+  <img src="ezgif-307f7c434e90bec5.gif" width="100%" alt="Banner" />
+</div>
 
 <br>
 
