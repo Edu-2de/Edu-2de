@@ -105,11 +105,11 @@ ATUALMENTE
 <div align="center">
   <img
     height="155"
-    src="https://github-readme-stats.vercel.app/api?username=Edu-2de&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=stars&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Edu-2de&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff"
   />
   <img
     height="155"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-2de&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Edu-2de&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888"
   />
 </div>
 
