@@ -1,48 +1,37 @@
-<!-- <div align="center">
-  <img src="tumblr_ngc6em7sYP1u3yhk2o1_500.gif" width="600" alt="Over the Garden Wall" />
-</div> -->
-
-<br>
-
 <div align="center">
+  <img src="COLOCA_O_LINK_DO_SEU_GIF_AQUI.gif" width="150" alt="Over the Garden Wall" />
+  
+
   <h1>eduardo paim.</h1>
   <p><code>software developer</code></p>
 </div>
 
 <br><br>
 
-### · sobre
-Construindo arquiteturas resilientes e experiências fluidas. Do gerenciamento de estado no front-end à lógica de negócios complexa no back-end, meu foco é transformar problemas difíceis em soluções tecnológicas escaláveis e de fácil manutenção.
+## Sobre
+Construindo arquiteturas resilientes e experiências web fluidas. Do gerenciamento de estado no front-end à lógica de negócios complexa no back-end, meu foco é transformar problemas difíceis em soluções tecnológicas escaláveis e de fácil manutenção.
 
 <br>
 
-### · stack principal
-<code>PHP</code> <code>Laravel</code> <code>C#</code> <code>.NET</code> <code>Python</code> <code>JavaScript</code> <code>Vue.js</code> <code>Next.js</code> <code>Astro</code> <code>Godot</code>
+## Stack Principal
+<code>PHP</code> &nbsp; <code>Laravel</code> &nbsp; <code>C#</code> &nbsp; <code>.NET</code> &nbsp; <code>Python</code> &nbsp; <code>JavaScript</code> &nbsp; <code>Vue.js</code> &nbsp; <code>Next.js</code> &nbsp; <code>Astro</code> &nbsp; <code>Godot</code>
 
 <br>
 
-### · projetos em destaque
+## Projetos em Destaque
 
 <details>
-  <summary><b>▸ Plataforma de E-commerce</b> <i>( Laravel & Vue.js )</i></summary>
-  <br>
-  <p>Desenvolvimento de uma arquitetura robusta para vendas e gerenciamento. Foco na comunicação eficiente entre a API back-end e a reatividade do front-end para uma experiência de usuário sem atritos.</p>
-</details>
-
-<details>
-  <summary><b>▸ Interfaces e Landing Pages Corporativas</b> <i>( Next.js & Astro )</i></summary>
-  <br>
-  <p>Construção de aplicações web focadas em usabilidade e conversão, utilizando geração estática e renderização otimizada para máxima performance.</p>
-</details>
-
-<details>
-  <summary><b>▸ Automação e Lógica de Sistemas</b> <i>( Python, C# & Godot )</i></summary>
-  <br>
-  <p>Desenvolvimento de scripts para organização massiva de arquivos, integração de APIs via requisições complexas e implementação de mecânicas orientadas a estado em projetos interativos.</p>
+  <summary><b>E-commerce Completo</b></summary>
+  <blockquote>
+    <p>Desenvolvimento de um sistema completo de vendas, focando na comunicação eficiente entre um back-end robusto e a reatividade do front-end para garantir uma experiência de usuário sem atritos.</p>
+    <p><i>Stack: <code>Laravel</code> · <code>Vue.js</code></i></p>
+    <br>
+    <a href="SEU_LINK_AQUI" target="_blank"><kbd>Repositório</kbd></a>
+  </blockquote>
 </details>
 
 <br><br>
 
-<div align="right">
-  <a href="LINK_LINKEDIN">LinkedIn</a> &nbsp; /// &nbsp; <a href="mailto:SEU_EMAIL">Contato</a>
+<div align="center">
+  <a href="LINK_LINKEDIN">LinkedIn</a> &nbsp; · &nbsp; <a href="mailto:SEU_EMAIL">Contato</a>
 </div>
