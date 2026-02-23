@@ -9,7 +9,7 @@ E D U A R D O   P A I M
 </div>
 
 <div align="center">
-  <img src="e266138bb630631635e4733cd5a5e6f5.gif" width="100%" alt="Banner" />
+  <img src="6c737506872effa6caac3d6a20ba2b53.jpg" width="70%" alt="Banner" />
 </div>
 
 <br>
