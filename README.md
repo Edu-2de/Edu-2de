@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="LINK_DO_SEU_GIF_AQUI.gif" width="600" alt="Over the Garden Wall" />
+  <img src="wirt-over-the-garden-wall.gif" width="600" alt="Over the Garden Wall" />
 </div>
 
 <br>
