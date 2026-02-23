@@ -46,11 +46,14 @@ meu foco é transformar problemas difíceis em soluções escaláveis e de fáci
 
 <div align="center">
 
-| Backend | Frontend | Ferramentas |
-|:---:|:---:|:---:|
-| PHP · Laravel | JavaScript · Vue.js | Git · SQL |
-| C# · .NET | Next.js · Astro | REST APIs |
-| Python | — | Godot |
+| Linguagem | Framework / Runtime |
+|:---:|:---:|
+| PHP | Laravel |
+| C# | .NET |
+| Python | Django |
+| JavaScript | Node.js · Vue.js |
+| TypeScript | Next.js |
+
 
 </div>
 
