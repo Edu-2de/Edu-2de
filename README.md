@@ -1,7 +1,5 @@
 <img src="SEU_GIF_CORTADO_AQUI.gif" width="100%" alt="Over the Garden Wall Landscape" />
 
-<br><br>
-
 <div align="center">
   <h1>eduardo paim.</h1>
   <p><code>software developer</code></p>
