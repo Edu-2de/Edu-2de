@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="COLOCA_O_LINK_DO_SEU_GIF_AQUI.gif" width="150" alt="Over the Garden Wall" />
+  <img src="dwguhzzfje2a1.gif" width="300" alt="Over the Garden Wall" />
   
 
   <h1>eduardo paim.</h1>
