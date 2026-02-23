@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="tumblr_ngc6em7sYP1u3yhk2o1_500.gif" width="600" alt="Over the Garden Wall" />
-</div>
+</div> -->
 
 <br>
 
