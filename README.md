@@ -65,14 +65,20 @@ PRINCÍPIOS
 ```
 
 ```
-01   Clareza acima de esperteza
-     Código é escrito para humanos primeiro.
+01   Clean Code & SOLID
+     Código legível, responsabilidades bem definidas e fácil de evoluir.
 
-02   Visão sistêmica
-     Cada decisão considera manutenibilidade a longo prazo.
+02   Domain-Driven Design
+     Lógica de negócio no centro da arquitetura, não nos frameworks.
 
-03   Responsabilidade total
-     Da arquitetura ao deploy, do início ao fim.
+03   API-First
+     Contratos claros entre sistemas antes de qualquer implementação.
+
+04   Observabilidade
+     Logs estruturados, métricas e rastreabilidade desde o primeiro deploy.
+
+05   Segurança por padrão
+     Autenticação, autorização e validação não são features, são fundação.
 ```
 
 <br>
