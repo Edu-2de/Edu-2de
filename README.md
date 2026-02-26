@@ -30,7 +30,7 @@ Gosto de construir coisas que simplesmente funcionam, e funcionam bem. Desde gar
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=laravel,dotnet,django,nodejs,vue,nextjs,react&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=laravel,dotnet,django,nodejs,vue,nextjs,react,docker&theme=dark&perline=8" />
 
 <br>
 
