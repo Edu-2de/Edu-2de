@@ -118,11 +118,11 @@ ATUALMENTE
 <br>
 
 <div align="center">
-  <a href="LINK_LINKEDIN">
+  <a href="https://www.linkedin.com/in/eduardo-paim-a89685341/">
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=000000" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:edupaim1712@gmail.com">
     <img src="https://img.shields.io/badge/Contato-ffffff?style=flat-square&logo=gmail&logoColor=000000" />
   </a>
 </div>
