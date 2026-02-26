@@ -18,9 +18,7 @@ E D U A R D O   P A I M
 
 <br>
 
-Construo arquiteturas resilientes e experiências web fluidas.  
-Do gerenciamento de estado no frontend à lógica de negócios complexa no backend,  
-meu foco é transformar problemas difíceis em soluções escaláveis e de fácil manutenção.
+Gosto de construir coisas que simplesmente funcionam, e funcionam bem. Desde garantir que a tela seja agradável de usar até montar um backend que não te deixe na mão, meu objetivo é resolver problemas chatos com código simples e que não dê dor de cabeça no futuro.
 
 <br>
 
@@ -50,19 +48,19 @@ PRINCÍPIOS
 
 ```
 01   Clean Code & SOLID
-     Código legível, responsabilidades bem definidas e fácil de evoluir.
+     Escrever código pensando em quem vai ler depois (quase sempre eu mesmo). O objetivo é manter a casa organizada para que uma alteração pequena não vire uma bola de neve.
 
 02   Domain-Driven Design
-     Lógica de negócio no centro da arquitetura, não nos frameworks.
+     O problema real importa mais que a tecnologia. Procuro entender o negócio primeiro e usar o framework apenas como ferramenta, não como o "dono" do sistema.
 
 03   API-First
-     Contratos claros entre sistemas antes de qualquer implementação.
+     Gosto de definir como as pontas vão se comunicar antes de sair programando. Ter um acordo claro desde o início poupa muita dor de cabeça na hora de integrar.
 
 04   Observabilidade
-     Logs estruturados, métricas e rastreabilidade desde o primeiro deploy.
+     Bugs vão acontecer, é inevitável. Por isso, tento deixar bons logs pelo caminho para não ter que brincar de adivinhação quando algo quebrar em produção.
 
 05   Segurança por padrão
-     Autenticação, autorização e validação não são features, são fundação.
+     Tento não empurrar a proteção para o fim do projeto. Controle de acesso e validação de dados são coisas que procuro pensar logo nos primeiros passos.
 ```
 
 <br>
@@ -76,9 +74,9 @@ ATUALMENTE
 ```
 
 ```
-→  Sistemas backend escaláveis com Laravel e .NET
-→  Padrões avançados em sistemas distribuídos
-→  Projetos paralelos com Godot e Astro
+→  Desenvolvendo APIs escaláveis usando o ecossistema Laravel
+→  Construindo o front-end moderno e reativo com Next.js
+→  Padronizando ambientes e simplificando deploys com Docker
 ```
 
 <br>
@@ -114,7 +112,7 @@ ATUALMENTE
 <br>
 
 <div align="center">
-  <sub>Aberto a problemas interessantes. Vamos construir algo sólido.</sub>
+  <sub>Sempre disponível a bater um papo sobre projetos legais ou desafios técnicos. Bora construir algo massa?</sub>
 </div>
 
 <br>
