@@ -112,12 +112,6 @@ ATUALMENTE
 <br>
 
 <div align="center">
-  <sub>Sempre disponível a bater um papo sobre projetos legais ou desafios técnicos. Bora construir algo massa?</sub>
-</div>
-
-<br>
-
-<div align="center">
   <a href="https://www.linkedin.com/in/eduardo-paim-a89685341/">
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=000000" />
   </a>
