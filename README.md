@@ -8,10 +8,6 @@ E D U A R D O   P A I M
 
 </div>
 
-<div align="center">
-  <img src="6c737506872effa6caac3d6a20ba2b53.jpg" width="70%" alt="Banner" />
-</div>
-
 <br>
 
 ---
