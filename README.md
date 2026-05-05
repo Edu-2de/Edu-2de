@@ -1,14 +1,15 @@
 <div align="center">
 
+**Desenvolvedor de Software**
+
 ```
 E D U A R D O   P A I M
 ```
 
-**Desenvolvedor de Software**
+
 
 </div>
 
-<br>
 
 ---
 
