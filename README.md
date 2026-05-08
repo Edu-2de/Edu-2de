@@ -70,8 +70,8 @@ ATUALMENTE
 ```
 
 ```
-→  Desenvolvendo APIs escaláveis usando o ecossistema Laravel
-→  Construindo o front-end moderno e reativo com Next.js
+→  Desenvolvendo APIs escaláveis usando o ecossistema Node
+→  Construindo o front-end moderno e reativo com React puro (partindo para se aprimorar no Next.js)
 →  Padronizando ambientes e simplificando deploys com Docker
 ```
 
