@@ -9,17 +9,6 @@ E D U A R D O   P A I M
 
 </div>
 
-
----
-
-<br>
-
-Gosto de construir coisas que simplesmente funcionam, e funcionam bem. Desde garantir que a tela seja agradável de usar até montar um backend que não te deixe na mão, meu objetivo é resolver problemas chatos com código simples e que não dê dor de cabeça no futuro.
-
-<br>
-
----
-
 <br>
 
 <div align="center">
