@@ -70,9 +70,10 @@ ATUALMENTE
 ```
 
 ```
-→  Desenvolvendo APIs escaláveis usando o ecossistema Node
-→  Construindo o front-end moderno e reativo com React puro (partindo para se aprimorar no Next.js)
-→  Padronizando ambientes e simplificando deploys com Docker
+→ Projetando APIs escaláveis no ecossistema Node.js.
+→ Aplicando Clean Architecture e Domain-Driven Design (DDD) para isolar regras de negócio da infraestrutura.
+→ Utilizando princípios SOLID e Design Patterns (Factory, Strategy) para garantir alto nível de manutenibilidade e baixo acoplamento.
+→ Padronizando ambientes de desenvolvimento e esteiras de deploy através de containerização com Docker.
 ```
 
 <br>
