@@ -15,7 +15,7 @@ E D U A R D O   P A I M
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=nestjs,dotnet,django,nodejs,vue,nextjs,react,docker&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,nestjs,dotnet,react,nextjs,docker,jest,rabbitmq&theme=dark&perline=9" />
 
 <br>
 
