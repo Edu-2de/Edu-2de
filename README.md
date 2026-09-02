@@ -60,9 +60,9 @@ ATUALMENTE
 
 ```
 → Projetando APIs escaláveis no ecossistema Node.js.
-→ Aplicando Clean Architecture e Domain-Driven Design (DDD) para isolar regras de negócio da infraestrutura.
+→ Aplicando Clean Architecture e DDD para isolar regras de negócio da infraestrutura.
 → Aplicando Spec Driven Desing, a fim de melhorar o uso de agentes no desenvolvimento.
-→ Utilizando princípios SOLID e Design Patterns para garantir alto nível de manutenibilidade e baixo acoplamento.
+→ Utilizando SOLID e Design Patterns para alto nível de manutenibilidade e baixo acoplamento.
 → Padronizando ambientes de desenvolvimento com Docker.
 → Ganhando experiencia na utilizacão de libs frontend como: GSAP.
 ```
