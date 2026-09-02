@@ -19,6 +19,20 @@ E D U A R D O   P A I M
 
 <br>
 
+<br>
+
+---
+
+```
+
+programaor PERFORMÁTICO que é contra vibecoder, frontend e php em projeto legado
+
+```
+
+---
+
+<br>
+
 </div>
 
 <!--<br>
