@@ -21,9 +21,9 @@ E D U A R D O   P A I M
 
 </div>
 
-<br>
+<!--<br>
 
----
+ ---
 
 <br>
 
@@ -50,7 +50,7 @@ PRINCÍPIOS
 
 <br>
 
----
+----->
 
 <br>
 
