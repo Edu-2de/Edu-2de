@@ -23,11 +23,15 @@ E D U A R D O   P A I M
 
 ---
 
-```
 
-programaor PERFORMÁTICO que é contra vibecoder, frontend e php em projeto legado
 
-```
+<div align="center">
+  <a href="eduardopaim.com.br">
+    <img src="https://img.shields.io/badge/Portifolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+</div>
+
+
 
 ---
 
