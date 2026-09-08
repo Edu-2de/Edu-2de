@@ -26,7 +26,7 @@ E D U A R D O   P A I M
 
 
 <div align="center">
-  <a href="eduardopaim.com.br">
+  <a href="https://eduardopaim.com.br">
     <img src="https://img.shields.io/badge/Portifolio-000000?style=flat-square&logo=vercel&logoColor=white" />
   </a>
 </div>
