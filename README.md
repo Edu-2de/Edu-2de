@@ -1,10 +1,6 @@
 <div align="center">
-
-
-```
-E D U A R D O   P A I M
-```
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&background=111111&center=true&vCenter=true&width=400&lines=EDUARDO+PAIM" alt="Eduardo Paim" />
+</div>
 
 
 </div>
